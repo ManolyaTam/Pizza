@@ -12,8 +12,8 @@ public class Pan implements MyInfo{
     private int panType;
 
 //   panSize and panType have multiple choices, each choice is represented with an integer starting from 1
-//   panSize(small: 1, medium: 2, large: 3) , panType(pan 1, deepDish 2) 
-    public Pan(boolean[] toppingsAdjList, int PanSize, int PanType) { //toppingsAdjList : boolean array indecating the presence of a topping
+//   panSize(small: 1, medium: 2, large: 3) , panType(pan 1, deepDish 2)
+    public Pan(/*boolean[] toppingsAdjList, int PanSize, int PanType*/) { //toppingsAdjList : boolean array indecating the presence of a topping
         this.panSize = panSize;
         this.panType = panType;
         pourDough();//TO DO
