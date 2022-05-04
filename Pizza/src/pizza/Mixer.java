@@ -5,10 +5,12 @@ import java.util.ArrayList;
 public class Mixer implements MyInfo{
     private Ingredient dough = new Ingredient("Dough", 0, 0);
     private ArrayList<Ingredient> ing = new ArrayList();
-    private final int panType;
-    private final int panSize;
+    private int panType;
+    private int panSize;
     private float weight = 0;
     private float calories = 0;
+    
+    
     
     // TO DO : sum of weights and calories
     
@@ -40,7 +42,7 @@ public class Mixer implements MyInfo{
     }
 
     public Ingredient getDough() {
-        return dough;
+        return this.dough;
     }
 
   public ArrayList<Ingredient> getIng() {
@@ -53,7 +55,7 @@ public class Mixer implements MyInfo{
         for(Ingredient i : ing){
             tmp += i.getInfo();
         }
-        System.out.println(tmp);
+       // System.out.println(tmp);
         return tmp;
     }  
 }
