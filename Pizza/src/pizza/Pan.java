@@ -50,22 +50,22 @@ public class Pan implements MyInfo{
     
     private void translate(){  // translates int values given to panSize and panType to String values
         switch (panSize) {
-            case 0:
+            case 1:
                 size = "Small";
                 break;
-            case 1:
+            case 2:
                 size = "Medium";
                 break;
-            case 2:
+            case 3:
                 size = "Large";
                 break;
         }
         
         switch (panType) {
-            case 0:
+            case 1:
                 type = "Pan";
                 break;
-            case 1:
+            case 2:
                 type = "Deep Dish";
                 break;
         }

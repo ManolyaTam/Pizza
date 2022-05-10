@@ -257,17 +257,17 @@ public class PizzaMachine extends javax.swing.JFrame {
        int size, type;
        // getting size
        if(small.isSelected())
-           size = 0;
-       else if(meduim.isSelected())
            size = 1;
-       else
+       else if(meduim.isSelected())
            size = 2;
+       else
+           size = 3;
        
        // getting pan type
        if(pan.isSelected())
-           type = 0;
-       else
            type = 1;
+       else
+           type = 2;
        
        Pizza pizza = new Pizza(size, type);
        //********************************************
