@@ -36,6 +36,4 @@ public class Ingredient implements MyInfo{
         return this.name + ", Weight: " + this.weight + " ,Calories: " + this.calories + "\n";
     }
     
-    
-    
 }
