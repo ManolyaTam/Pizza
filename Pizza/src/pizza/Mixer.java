@@ -9,11 +9,13 @@ public class Mixer implements MyInfo{
     private int panSize;
     private float weight = 0;
     private float calories = 0;
+    private Logger logger;
     
     // TO DO : sth here has to do with the data base (recording all resources used)
-    public Mixer(int panSize, int panType) {                                             // recipe depends on pan Size and pan type specified by user
+    public Mixer(int panSize, int panType, Logger logger) {                                             // recipe depends on pan Size and pan type specified by user
         this.panSize = panSize;
         this.panType = panType;
+        this.logger = logger;
         addIngredients();
         mix();
     }
@@ -34,6 +36,7 @@ public class Mixer implements MyInfo{
             weight += i.getWeight();
             calories += i.getCalories();
         }
+        logger.log("mixing dough");
     }
 
     public float getCalories() {

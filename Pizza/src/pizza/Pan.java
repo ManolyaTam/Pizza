@@ -14,13 +14,15 @@ public class Pan implements MyInfo{
     private int panType;
     private String type;
     private String size;
-   
-    private Mixer dough;//prepare the dough 
+    private Logger logger;
+    
+    private Mixer dough;
 
-    public Pan(int panSize, int panType) {
+    public Pan(int panSize, int panType, Logger logger) {
         this.panSize = panSize;
         this.panType = panType;
-        dough = new Mixer(this.panSize, this.panType);
+        this.logger = logger;
+        dough = new Mixer(this.panSize, this.panType, logger); // prepare the dough
     }
 
     public double getWeight() {
@@ -30,13 +32,15 @@ public class Pan implements MyInfo{
     public double getCalories() {
         return calories;
     }
-    
+
     private void pourDough(){
+        logger.log("pouring dough into pan");
         weight += dough.getWeight();
         calories += dough.getCalories();
     }
 
     public void addTopping(Ingredient ing){
+        logger.log("adding " + ing.getName());
         toppings.add(ing);
         weight += ing.getWeight();
         calories += ing.getCalories();

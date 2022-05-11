@@ -3,7 +3,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class PizzaMachine extends javax.swing.JFrame {
-
+    consolLog logger = new consolLog();
+    
     public PizzaMachine() {
         initComponents();
     }
@@ -269,7 +270,7 @@ public class PizzaMachine extends javax.swing.JFrame {
        else
            type = 2;
        
-       Pizza pizza = new Pizza(size, type);
+       Pizza pizza = new Pizza(size, type, logger);
        //********************************************
         ArrayList<Ingredient> toppings = new ArrayList<>();
         toppings.add(new Ingredient("Mozzarella Cheese", 170 * size, 476 * size)); // index : 0
@@ -289,6 +290,7 @@ public class PizzaMachine extends javax.swing.JFrame {
         
         String s = pizza.getInfo();
         jTextArea1.setText(s);
+        logger.log("Pizza was delivered\n****************************************");
     }//GEN-LAST:event_confirmTheOrderActionPerformed
 
     private void newOrderActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_newOrderActionPerformed

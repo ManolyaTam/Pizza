@@ -6,13 +6,19 @@ public class Pizza implements MyInfo{
     int panSize;
     int panType;
     Pan pan;
+    Logger logger;
+    private static int count = 0;
+    
     // dough weight + topping weight in one double variable
     // dough calories + toppings calories in one double variable
 
-    public Pizza(int panSize, int panType) {
+    public Pizza(int panSize, int panType, Logger logger) {
         this.panSize = panSize;
         this.panType = panType;
-        pan = new Pan(panSize, panType);
+        this.logger = logger;
+        count++;
+        logger.log("Pizza #" + count + " was ordered\nDetails:");
+        pan = new Pan(panSize, panType, logger);
     }
 
     @Override
@@ -23,6 +29,10 @@ public class Pizza implements MyInfo{
     public Pan getPan() {
         return pan;
     }
+
+//    public static int getCount() {
+//        return count;
+//    }
     
     
 }
