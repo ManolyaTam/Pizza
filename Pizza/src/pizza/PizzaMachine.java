@@ -4,7 +4,7 @@ import java.util.List;
 
 public class PizzaMachine extends javax.swing.JFrame {
     consolLog logger = new consolLog();
-    
+//    FileLog logger = new FileLog();
     public PizzaMachine() {
         initComponents();
     }
@@ -288,7 +288,7 @@ public class PizzaMachine extends javax.swing.JFrame {
             pizza.pan.addTopping(toppings.get(selectedToppings[i]));
         }
         
-        String s = pizza.getInfo();
+        String s = pizza.getInfo(); 
         jTextArea1.setText(s);
         logger.log("Pizza was delivered\n****************************************");
     }//GEN-LAST:event_confirmTheOrderActionPerformed

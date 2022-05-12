@@ -20,7 +20,7 @@ public class Mixer implements MyInfo{
         mix();
     }
     private void addIngredients(){
-        dough.add(new Ingredient("Flour", 300 * panSize, 1092 * panSize));
+        dough.add(new Ingredient("Flour", 300 * panSize, 1092 * panSize));// totalFlour -=  300 * panSize
         dough.add(new Ingredient("Oil", 108 * panSize, 955 * panSize));
         dough.add(new Ingredient("Sugar", 4.25 * panSize, 16 * panSize));
         dough.add(new Ingredient("Salt", 6 * panSize, 0));
@@ -32,11 +32,11 @@ public class Mixer implements MyInfo{
     }
     
     private void mix(){
+        logger.log("mixing dough");
         for(Ingredient i : dough){
             weight += i.getWeight();
             calories += i.getCalories();
         }
-        logger.log("mixing dough");
     }
 
     public float getCalories() {
