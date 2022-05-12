@@ -4,6 +4,7 @@ import java.util.List;
 
 public class PizzaMachine extends javax.swing.JFrame {
     consolLog logger = new consolLog();
+     String s;
 //    FileLog logger = new FileLog();
     public PizzaMachine() {
         initComponents();
@@ -167,10 +168,11 @@ public class PizzaMachine extends javax.swing.JFrame {
                             .addGroup(layout.createSequentialGroup()
                                 .addGap(0, 0, Short.MAX_VALUE)
                                 .addComponent(confirmTheOrder)
-                                .addGap(18, 18, 18)
+                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                                .addComponent(viewInformation)
+                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                                 .addComponent(newOrder)
-                                .addGap(18, 18, 18)
-                                .addComponent(viewInformation))
+                                .addGap(12, 12, 12))
                             .addGroup(layout.createSequentialGroup()
                                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                                     .addComponent(deepDish)
@@ -217,8 +219,8 @@ public class PizzaMachine extends javax.swing.JFrame {
                         .addGap(31, 31, 31)))
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(viewInformation)
-                    .addComponent(newOrder)
-                    .addComponent(confirmTheOrder))
+                    .addComponent(confirmTheOrder)
+                    .addComponent(newOrder))
                 .addGap(18, 18, 18)
                 .addComponent(jLabel5)
                 .addGap(18, 18, 18)
@@ -252,6 +254,7 @@ public class PizzaMachine extends javax.swing.JFrame {
     private void viewInformationActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_viewInformationActionPerformed
         // TODO add your handling code here:
         //if view is enabled then display the information on the Text Area
+        jTextArea1.setText(s);
     }//GEN-LAST:event_viewInformationActionPerformed
 
     private void confirmTheOrderActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_confirmTheOrderActionPerformed
@@ -288,14 +291,22 @@ public class PizzaMachine extends javax.swing.JFrame {
             pizza.pan.addTopping(toppings.get(selectedToppings[i]));
         }
         
-        String s = pizza.getInfo(); 
-        jTextArea1.setText(s);
+        s = pizza.getInfo(); 
+//        jTextArea1.setText(s);
         logger.log("Pizza was delivered\n****************************************");
     }//GEN-LAST:event_confirmTheOrderActionPerformed
 
     private void newOrderActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_newOrderActionPerformed
         // TODO add your handling code here:
         //if this botton is enabled then the screen will be cleared...
+        int[] cleredArray = jList1.getSelectedIndices();
+        for(int i = 0 ; i < jList1.getSelectedIndices().length ; i++)
+            cleredArray[i] = -1;
+        buttonGroup1.clearSelection();
+        buttonGroup2.clearSelection();
+        jList1.setSelectedIndices(cleredArray);
+        jTextArea1.setText("");
+        
     }//GEN-LAST:event_newOrderActionPerformed
 
     /**
