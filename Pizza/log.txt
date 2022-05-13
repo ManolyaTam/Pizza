@@ -13,3 +13,327 @@ Details:
 
 13/18/2022 at 11:18:29	Pizza was delivered
 ****************************************
+13/31/2022 at 12:31:22	Pizza #1 was ordered
+Details:
+
+13/31/2022 at 12:31:22	mixing dough
+
+13/31/2022 at 12:31:22	pouring dough into pan
+
+13/31/2022 at 12:31:22	adding Mozzarella Cheese
+
+13/31/2022 at 12:31:22	adding Garlic
+
+13/31/2022 at 12:31:22	adding Pizza Sauce
+
+13/31/2022 at 12:31:22	adding Red Peppers
+
+13/31/2022 at 12:31:22	Pizza was delivered
+****************************************
+13/33/2022 at 12:33:10	Pizza #1 was ordered
+Details:
+
+13/33/2022 at 12:33:10	mixing dough
+
+13/33/2022 at 12:33:10	pouring dough into pan
+
+13/33/2022 at 12:33:10	adding Mozzarella Cheese
+
+13/33/2022 at 12:33:10	adding Onion
+
+13/33/2022 at 12:33:10	adding Oregano 
+
+13/33/2022 at 12:33:10	Pizza was delivered
+****************************************
+13/35/2022 at 12:35:57	Pizza #1 was ordered
+Details:
+
+13/35/2022 at 12:35:57	mixing dough
+
+13/35/2022 at 12:35:57	pouring dough into pan
+
+13/35/2022 at 12:35:57	adding Tomatoes
+
+13/35/2022 at 12:35:57	adding Onion
+
+13/35/2022 at 12:35:57	adding Oregano 
+
+13/35/2022 at 12:35:57	Pizza was delivered
+****************************************
+13/43/2022 at 12:43:28	Pizza #1 was ordered
+Details:
+
+13/43/2022 at 12:43:28	mixing dough
+
+13/43/2022 at 12:43:28	pouring dough into pan
+
+13/43/2022 at 12:43:28	adding Mozzarella Cheese
+
+13/43/2022 at 12:43:28	adding Onion
+
+13/43/2022 at 12:43:28	adding Oregano 
+
+13/43/2022 at 12:43:28	adding Red Peppers
+
+13/43/2022 at 12:43:28	Pizza was delivered
+****************************************
+13/44/2022 at 12:44:22	Pizza #1 was ordered
+Details:
+
+13/44/2022 at 12:44:22	mixing dough
+
+13/44/2022 at 12:44:22	pouring dough into pan
+
+13/44/2022 at 12:44:22	adding Tomatoes
+
+13/44/2022 at 12:44:22	adding Onion
+
+13/44/2022 at 12:44:22	adding Olives 
+
+13/44/2022 at 12:44:22	Pizza was delivered
+****************************************
+13/47/2022 at 12:47:22	Pizza #1 was ordered
+Details:
+
+13/47/2022 at 12:47:22	mixing dough
+
+13/47/2022 at 12:47:22	pouring dough into pan
+
+13/47/2022 at 12:47:22	adding Tomatoes
+
+13/47/2022 at 12:47:22	adding Onion
+
+13/47/2022 at 12:47:22	adding Olives 
+
+13/47/2022 at 12:47:22	Pizza was delivered
+****************************************
+13/47/2022 at 12:47:48	Pizza #2 was ordered
+Details:
+
+13/47/2022 at 12:47:48	mixing dough
+
+13/47/2022 at 12:47:48	pouring dough into pan
+
+13/47/2022 at 12:47:48	adding Garlic
+
+13/47/2022 at 12:47:48	adding Oregano 
+
+13/47/2022 at 12:47:48	adding Red Peppers
+
+13/47/2022 at 12:47:48	Pizza was delivered
+****************************************
+13/48/2022 at 12:48:30	Pizza #3 was ordered
+Details:
+
+13/48/2022 at 12:48:30	mixing dough
+
+13/48/2022 at 12:48:30	pouring dough into pan
+
+13/48/2022 at 12:48:30	Pizza was delivered
+****************************************
+13/48/2022 at 12:48:48	Pizza #4 was ordered
+Details:
+
+13/48/2022 at 12:48:48	mixing dough
+
+13/48/2022 at 12:48:48	pouring dough into pan
+
+13/48/2022 at 12:48:48	Pizza was delivered
+****************************************
+13/49/2022 at 12:49:00	Pizza #5 was ordered
+Details:
+
+13/49/2022 at 12:49:00	mixing dough
+
+13/49/2022 at 12:49:00	pouring dough into pan
+
+13/49/2022 at 12:49:00	Pizza was delivered
+****************************************
+13/49/2022 at 12:49:12	Pizza #6 was ordered
+Details:
+
+13/49/2022 at 12:49:12	mixing dough
+
+13/49/2022 at 12:49:12	pouring dough into pan
+
+13/49/2022 at 12:49:12	Pizza was delivered
+****************************************
+13/49/2022 at 12:49:24	Pizza #7 was ordered
+Details:
+
+13/49/2022 at 12:49:24	mixing dough
+
+13/49/2022 at 12:49:24	pouring dough into pan
+
+13/49/2022 at 12:49:24	Pizza was delivered
+****************************************
+13/49/2022 at 12:49:33	Pizza #8 was ordered
+Details:
+
+13/49/2022 at 12:49:33	mixing dough
+
+13/49/2022 at 12:49:33	pouring dough into pan
+
+13/49/2022 at 12:49:33	Pizza was delivered
+****************************************
+13/49/2022 at 12:49:42	Pizza #9 was ordered
+Details:
+
+13/49/2022 at 12:49:42	mixing dough
+
+13/49/2022 at 12:49:42	pouring dough into pan
+
+13/49/2022 at 12:49:42	Pizza was delivered
+****************************************
+13/49/2022 at 12:49:50	Pizza #10 was ordered
+Details:
+
+13/49/2022 at 12:49:50	mixing dough
+
+13/49/2022 at 12:49:50	pouring dough into pan
+
+13/49/2022 at 12:49:50	Pizza was delivered
+****************************************
+13/49/2022 at 12:49:58	Pizza #11 was ordered
+Details:
+
+13/49/2022 at 12:49:58	mixing dough
+
+13/49/2022 at 12:49:58	pouring dough into pan
+
+13/49/2022 at 12:49:58	Pizza was delivered
+****************************************
+13/50/2022 at 12:50:07	Pizza #12 was ordered
+Details:
+
+13/50/2022 at 12:50:07	mixing dough
+
+13/50/2022 at 12:50:07	pouring dough into pan
+
+13/50/2022 at 12:50:07	Pizza was delivered
+****************************************
+13/50/2022 at 12:50:12	Pizza #13 was ordered
+Details:
+
+13/50/2022 at 12:50:12	mixing dough
+
+13/50/2022 at 12:50:12	pouring dough into pan
+
+13/50/2022 at 12:50:12	Pizza was delivered
+****************************************
+13/50/2022 at 12:50:20	Pizza #14 was ordered
+Details:
+
+13/50/2022 at 12:50:20	mixing dough
+
+13/50/2022 at 12:50:20	pouring dough into pan
+
+13/50/2022 at 12:50:20	Pizza was delivered
+****************************************
+13/50/2022 at 12:50:28	Pizza #15 was ordered
+Details:
+
+13/50/2022 at 12:50:28	mixing dough
+
+13/50/2022 at 12:50:28	pouring dough into pan
+
+13/50/2022 at 12:50:28	Pizza was delivered
+****************************************
+13/50/2022 at 12:50:46	Pizza #16 was ordered
+Details:
+
+13/50/2022 at 12:50:46	mixing dough
+
+13/50/2022 at 12:50:46	pouring dough into pan
+
+13/50/2022 at 12:50:46	adding Tomatoes
+
+13/50/2022 at 12:50:46	adding Garlic
+
+13/50/2022 at 12:50:46	adding Olives 
+
+13/50/2022 at 12:50:46	Pizza was delivered
+****************************************
+13/52/2022 at 12:52:09	Pizza #1 was ordered
+Details:
+
+13/52/2022 at 12:52:09	mixing dough
+
+13/52/2022 at 12:52:09	pouring dough into pan
+
+13/52/2022 at 12:52:09	adding Tomatoes
+
+13/52/2022 at 12:52:09	adding Garlic
+
+13/52/2022 at 12:52:09	adding Pizza Sauce
+
+13/52/2022 at 12:52:09	adding Red Peppers
+
+13/52/2022 at 12:52:09	Pizza was delivered
+****************************************
+13/53/2022 at 12:53:09	Pizza #1 was ordered
+Details:
+
+13/53/2022 at 12:53:09	mixing dough
+
+13/53/2022 at 12:53:09	pouring dough into pan
+
+13/53/2022 at 12:53:09	adding Pizza Sauce
+
+13/53/2022 at 12:53:09	Pizza was delivered
+****************************************
+13/53/2022 at 12:53:10	Pizza #2 was ordered
+Details:
+
+13/53/2022 at 12:53:10	mixing dough
+
+13/53/2022 at 12:53:10	pouring dough into pan
+
+13/53/2022 at 12:53:10	adding Pizza Sauce
+
+13/53/2022 at 12:53:10	Pizza was delivered
+****************************************
+13/53/2022 at 12:53:26	Pizza #3 was ordered
+Details:
+
+13/53/2022 at 12:53:26	mixing dough
+
+13/53/2022 at 12:53:26	pouring dough into pan
+
+13/53/2022 at 12:53:26	adding Red Peppers
+
+13/53/2022 at 12:53:26	Pizza was delivered
+****************************************
+13/56/2022 at 12:56:06	Pizza #4 was ordered
+Details:
+
+13/56/2022 at 12:56:06	mixing dough
+
+13/56/2022 at 12:56:06	pouring dough into pan
+
+13/56/2022 at 12:56:06	adding Red Peppers
+
+13/56/2022 at 12:56:06	Pizza was delivered
+****************************************
+13/56/2022 at 12:56:08	Pizza #5 was ordered
+Details:
+
+13/56/2022 at 12:56:08	mixing dough
+
+13/56/2022 at 12:56:08	pouring dough into pan
+
+13/56/2022 at 12:56:08	adding Red Peppers
+
+13/56/2022 at 12:56:08	Pizza was delivered
+****************************************
+13/56/2022 at 12:56:08	Pizza #6 was ordered
+Details:
+
+13/56/2022 at 12:56:08	mixing dough
+
+13/56/2022 at 12:56:08	pouring dough into pan
+
+13/56/2022 at 12:56:08	adding Red Peppers
+
+13/56/2022 at 12:56:08	Pizza was delivered
+****************************************

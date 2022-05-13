@@ -15,7 +15,7 @@ public class Pan implements MyInfo{
     private String type;
     private String size;
     private Logger logger;
-    //slices : int
+    private final int slices = 8;
     
     private Mixer dough;
 
@@ -51,12 +51,18 @@ public class Pan implements MyInfo{
     @Override
     public String getInfo() { // TODO
         translate();
-        return "Pan Type: " + type + "\n" + "Pan Size = " + size + "\nToppings:\n" +  toppingsInfo(); // + slices.getInfo 
+        return "Pan Type: " + type + "\n" + "Pan Size = " + size + "\nToppings:\n" +  toppingsInfo() + "\n" + slicesInfo(); // + slices.getInfo 
     }
-    
     //String getSliceInfo()
     // weight/ slices
-    // calories / slices
+    // calories / slices // /this.slices /this.slices
+
+    
+    public String slicesInfo() {
+        return "Slice Info {" + " weight = " + Math.ceil(weight/slices)  + ", calories = " + Math.ceil(calories/slices) + " calorie}\n";
+    }
+
+    
     
     private void translate(){  // translates int values given to panSize and panType to String values
         switch (panSize) {
