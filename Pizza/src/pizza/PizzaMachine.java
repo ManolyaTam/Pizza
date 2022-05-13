@@ -3,9 +3,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class PizzaMachine extends javax.swing.JFrame {
-    consolLog logger = new consolLog();
+   // consolLog logger = new consolLog();
      String s;
-//    FileLog logger = new FileLog();
+    FileLog logger = new FileLog();
     public PizzaMachine() {
         initComponents();
     }
