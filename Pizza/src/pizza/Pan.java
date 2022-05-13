@@ -36,13 +36,13 @@ public class Pan implements MyInfo{
     }
 
     private void pourDough(){
-        logger.log("pouring dough into pan");
+        logger.log("pouring dough into pan\n");//ch 1
         weight += dough.getWeight();
         calories += dough.getCalories();
     }
 
     public void addTopping(Ingredient ing){
-        logger.log("adding " + ing.getName());
+        logger.log("adding " + ing.getName() + "\n");// ch 2
         toppings.add(ing);
         weight += ing.getWeight();
         calories += ing.getCalories();

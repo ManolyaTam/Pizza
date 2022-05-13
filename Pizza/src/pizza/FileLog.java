@@ -20,8 +20,8 @@ public class FileLog implements Logger{
         
         FileWriter fw;
         try {
-        fw = new FileWriter(new File("C:\\Users\\mariam hasanat\\Desktop\\file.txt"), true);
-        fw.write( dateFormat.format(currentDate) + " at " + timeFormat.format(currentDate) + "\t" +  str);
+        fw = new FileWriter(new File("log.txt"), true);
+        fw.write( dateFormat.format(currentDate) + " at " + timeFormat.format(currentDate) + "\t" +  str + "\n");
         fw.close();
 
         } catch (IOException ex) {

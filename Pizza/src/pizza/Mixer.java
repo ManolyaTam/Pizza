@@ -32,7 +32,7 @@ public class Mixer implements MyInfo{
     }
     
     private void mix(){
-        logger.log("mixing dough");
+        logger.log("mixing dough\n");//ch 4
         for(Ingredient i : dough){
             weight += i.getWeight();
             calories += i.getCalories();

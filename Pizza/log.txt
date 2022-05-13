@@ -1,0 +1,15 @@
+13/18/2022 at 11:18:28	Pizza #1 was ordered
+Details:
+
+13/18/2022 at 11:18:29	mixing dough
+
+13/18/2022 at 11:18:29	pouring dough into pan
+
+13/18/2022 at 11:18:29	adding Tomatoes
+
+13/18/2022 at 11:18:29	adding Onion
+
+13/18/2022 at 11:18:29	adding Oregano 
+
+13/18/2022 at 11:18:29	Pizza was delivered
+****************************************

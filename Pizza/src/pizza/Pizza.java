@@ -17,7 +17,7 @@ public class Pizza implements MyInfo{
         this.panType = panType;
         this.logger = logger;
         count++;
-        logger.log("Pizza #" + count + " was ordered\nDetails:");
+        logger.log("Pizza #" + count + " was ordered\nDetails:\n");//ch 3
         pan = new Pan(panSize, panType, logger);
     }
 
