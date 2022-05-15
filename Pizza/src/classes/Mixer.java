@@ -1,5 +1,6 @@
-package pizza;
+package classes;
 
+import loggers.Logger;
 import java.util.ArrayList;
 
 public class Mixer implements MyInfo{

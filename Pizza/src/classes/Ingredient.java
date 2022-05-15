@@ -1,4 +1,4 @@
-package pizza;
+package classes;
 
 public class Ingredient implements MyInfo{
     private final String name;

@@ -1,4 +1,4 @@
-package pizza;
+package loggers;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

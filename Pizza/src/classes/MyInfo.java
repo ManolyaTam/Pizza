@@ -1,4 +1,4 @@
-package pizza;
+package classes;
 
 public interface MyInfo {
    String getInfo();

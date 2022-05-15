@@ -1,10 +1,13 @@
 package pizza;
+import classes.Ingredient;
+import classes.Pizza;
+import loggers.FileLog;
 import java.util.ArrayList;
 import java.util.List;
 
-public class PizzaMachine extends javax.swing.JFrame {
+public class PizzaMachine    extends javax.swing.JFrame {
    // consolLog logger = new consolLog();
-     String s;
+    String s;
     FileLog logger = new FileLog();
     public PizzaMachine() {
         initComponents();
@@ -258,19 +261,19 @@ public class PizzaMachine extends javax.swing.JFrame {
     }//GEN-LAST:event_viewInformationActionPerformed
 
     private void confirmTheOrderActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_confirmTheOrderActionPerformed
-       int size, type;
+       int size = 0, type = 0;
        // getting size
        if(small.isSelected())
            size = 1;
        else if(meduim.isSelected())
            size = 2;
-       else
+       else if(large.isSelected())
            size = 3;
-       
+              
        // getting pan type
        if(pan.isSelected())
            type = 1;
-       else
+       else if(deepDish.isSelected())
            type = 2;
        
        Pizza pizza = new Pizza(size, type, logger);
@@ -288,23 +291,24 @@ public class PizzaMachine extends javax.swing.JFrame {
         //toppings
         int[] selectedToppings = jList1.getSelectedIndices();
         for(int i = 0, n = selectedToppings.length; i < n; i++){
-            pizza.pan.addTopping(toppings.get(selectedToppings[i]));
+            pizza.getPan().addTopping(toppings.get(selectedToppings[i]));
         }
         
         s = pizza.getInfo(); 
 //        jTextArea1.setText(s);
         logger.log("Pizza was delivered\n****************************************");
+        size = type = 0;
     }//GEN-LAST:event_confirmTheOrderActionPerformed
 
     private void newOrderActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_newOrderActionPerformed
         // TODO add your handling code here:
-        //if this botton is enabled then the screen will be cleared...
-        int[] cleredArray = jList1.getSelectedIndices();
+        //if this botton is enabled then the screen will be cleared... //I GUESS THERE IS A BETTER WAY TO DO THIS
+        int[] clearedArray = jList1.getSelectedIndices();
         for(int i = 0 ; i < jList1.getSelectedIndices().length ; i++)
-            cleredArray[i] = -1;
+            clearedArray[i] = -1;
         buttonGroup1.clearSelection();
         buttonGroup2.clearSelection();
-        jList1.setSelectedIndices(cleredArray);
+        jList1.setSelectedIndices(clearedArray);
         jTextArea1.setText("");
         
     }//GEN-LAST:event_newOrderActionPerformed
@@ -341,4 +345,5 @@ public class PizzaMachine extends javax.swing.JFrame {
     private javax.swing.JRadioButton small;
     private javax.swing.JButton viewInformation;
     // End of variables declaration//GEN-END:variables
+
 }

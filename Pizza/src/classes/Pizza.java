@@ -1,5 +1,6 @@
-package pizza;
+package classes;
 
+import loggers.Logger;
 import java.util.ArrayList;
 
 public class Pizza implements MyInfo{
@@ -20,14 +21,14 @@ public class Pizza implements MyInfo{
         logger.log("Pizza #" + count + " was ordered\nDetails:\n");//ch 3
         pan = new Pan(panSize, panType, logger);
     }
+    
+    public Pan getPan(){
+        return this.pan;
+    }
 
     @Override
     public String getInfo() {
         return pan.getInfo();
-    }
-
-    public Pan getPan() {
-        return pan;
     }
 
 //    public static int getCount() {
