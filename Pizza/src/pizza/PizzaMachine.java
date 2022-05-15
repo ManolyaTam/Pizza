@@ -357,6 +357,8 @@ public class PizzaMachine    extends javax.swing.JFrame {
             jProgressBar1.setVisible(true);
             progressVal.setVisible(true);
            try {
+               
+                logger.log("baking the pizza");
                 for(int i = 0; i <= 100; i++){
                     pizza.getPan().bake();
                     progressVal.setText(i + "%");

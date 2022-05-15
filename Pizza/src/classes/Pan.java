@@ -43,7 +43,6 @@ public class Pan implements MyInfo{
     }
     
     public void bake() throws InterruptedException{
-        logger.log("baking the pizza");
         Thread.sleep(10); // millisec
     }
 

@@ -2539,3 +2539,19 @@ Details:
 --------------------
 |RESTAURANT CLOSED|
 --------------------
+15/27/2022 at 11:27:42	Pizza #1 was ordered
+Details:
+
+15/27/2022 at 11:27:42	mixing dough
+
+15/27/2022 at 11:27:42	pouring dough into pan
+
+15/27/2022 at 11:27:42	adding Pizza Sauce
+
+15/27/2022 at 11:27:42	baking the pizza
+15/27/2022 at 11:27:44	Pizza delivered
+****************************************
+15/27/2022 at 11:27:53	
+--------------------
+|RESTAURANT CLOSED|
+--------------------
