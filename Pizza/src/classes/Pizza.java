@@ -23,6 +23,10 @@ public class Pizza implements MyInfo{
         return this.pan;
     }
 
+    public static int getCount() {
+        return count;
+    }
+
     @Override
     public String getInfo() {
         return pan.getInfo();
