@@ -4,9 +4,11 @@ import classes.Pizza;
 import loggers.FileLog;
 import java.util.ArrayList;
 import java.util.List;
+import javax.swing.JOptionPane;
 
 public class PizzaMachine    extends javax.swing.JFrame {
    // consolLog logger = new consolLog();
+    boolean ordered = false;
     String s;
     FileLog logger = new FileLog();
     public PizzaMachine() {
@@ -28,6 +30,7 @@ public class PizzaMachine    extends javax.swing.JFrame {
         buttonGroup2 = new javax.swing.ButtonGroup();
         javax.swing.ButtonGroup buttonGroup3 = new javax.swing.ButtonGroup();
         filler1 = new javax.swing.Box.Filler(new java.awt.Dimension(0, 0), new java.awt.Dimension(0, 0), new java.awt.Dimension(32767, 32767));
+        jDesktopPane1 = new javax.swing.JDesktopPane();
         jLabel1 = new javax.swing.JLabel();
         small = new javax.swing.JRadioButton();
         meduim = new javax.swing.JRadioButton();
@@ -45,19 +48,33 @@ public class PizzaMachine    extends javax.swing.JFrame {
         jScrollPane2 = new javax.swing.JScrollPane();
         jList1 = new javax.swing.JList<>();
         jLabel2 = new javax.swing.JLabel();
+        jLabel6 = new javax.swing.JLabel();
         jMenuBar1 = new javax.swing.JMenuBar();
         jMenu1 = new javax.swing.JMenu();
+        CloseBtn = new javax.swing.JMenuItem();
         jMenu2 = new javax.swing.JMenu();
 
-        setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        javax.swing.GroupLayout jDesktopPane1Layout = new javax.swing.GroupLayout(jDesktopPane1);
+        jDesktopPane1.setLayout(jDesktopPane1Layout);
+        jDesktopPane1Layout.setHorizontalGroup(
+            jDesktopPane1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGap(0, 100, Short.MAX_VALUE)
+        );
+        jDesktopPane1Layout.setVerticalGroup(
+            jDesktopPane1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGap(0, 100, Short.MAX_VALUE)
+        );
+
+        setDefaultCloseOperation(javax.swing.WindowConstants.DO_NOTHING_ON_CLOSE);
         setTitle("Pizza Machine");
         setBackground(new java.awt.Color(255, 255, 255));
         setForeground(java.awt.Color.white);
         setResizable(false);
+        setType(java.awt.Window.Type.POPUP);
 
-        jLabel1.setBackground(new java.awt.Color(102, 255, 102));
+        jLabel1.setBackground(new java.awt.Color(255, 255, 255));
+        jLabel1.setFont(new java.awt.Font("Tahoma", 1, 11)); // NOI18N
         jLabel1.setText("Choose the size of pizza ");
-        jLabel1.setBorder(javax.swing.BorderFactory.createMatteBorder(1, 1, 1, 1, new java.awt.Color(255, 0, 255)));
 
         buttonGroup1.add(small);
         small.setText("Small");
@@ -83,9 +100,9 @@ public class PizzaMachine    extends javax.swing.JFrame {
             }
         });
 
-        jLabel3.setBackground(new java.awt.Color(102, 255, 102));
+        jLabel3.setBackground(new java.awt.Color(255, 255, 255));
+        jLabel3.setFont(new java.awt.Font("Tahoma", 1, 11)); // NOI18N
         jLabel3.setText("Choose the type of pizza ");
-        jLabel3.setBorder(javax.swing.BorderFactory.createMatteBorder(1, 1, 1, 1, new java.awt.Color(255, 0, 255)));
 
         buttonGroup2.add(deepDish);
         deepDish.setText("Deep dish");
@@ -109,12 +126,12 @@ public class PizzaMachine    extends javax.swing.JFrame {
         });
 
         jLabel4.setBackground(new java.awt.Color(102, 255, 102));
+        jLabel4.setFont(new java.awt.Font("Tahoma", 1, 11)); // NOI18N
         jLabel4.setText("Choose the toppings as you wish  ");
-        jLabel4.setBorder(javax.swing.BorderFactory.createMatteBorder(1, 1, 1, 1, new java.awt.Color(255, 0, 255)));
 
         jLabel5.setBackground(new java.awt.Color(102, 255, 102));
+        jLabel5.setFont(new java.awt.Font("Tahoma", 1, 11)); // NOI18N
         jLabel5.setText("Pizza Informations : ");
-        jLabel5.setBorder(javax.swing.BorderFactory.createMatteBorder(1, 1, 1, 1, new java.awt.Color(255, 0, 255)));
 
         viewInformation.setText("View Information");
         viewInformation.addActionListener(new java.awt.event.ActionListener() {
@@ -144,9 +161,23 @@ public class PizzaMachine    extends javax.swing.JFrame {
         });
         jScrollPane2.setViewportView(jList1);
 
+        jLabel2.setForeground(new java.awt.Color(255, 0, 0));
         jLabel2.setText("Hint: use ctrl key to select multiple choices");
 
+        jLabel6.setForeground(new java.awt.Color(255, 0, 0));
+        jLabel6.setText("Note: to close this window, go to [File -> Close] or use the shortcut [Shift + c]");
+
         jMenu1.setText("File");
+
+        CloseBtn.setAccelerator(javax.swing.KeyStroke.getKeyStroke(java.awt.event.KeyEvent.VK_C, java.awt.event.InputEvent.SHIFT_DOWN_MASK));
+        CloseBtn.setText("Close");
+        CloseBtn.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                CloseBtnActionPerformed(evt);
+            }
+        });
+        jMenu1.add(CloseBtn);
+
         jMenuBar1.add(jMenu1);
 
         jMenu2.setText("Edit");
@@ -165,7 +196,7 @@ public class PizzaMachine    extends javax.swing.JFrame {
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                             .addComponent(jLabel5)
                             .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 375, javax.swing.GroupLayout.PREFERRED_SIZE))
-                        .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                        .addContainerGap(11, Short.MAX_VALUE))
                     .addGroup(layout.createSequentialGroup()
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
                             .addGroup(layout.createSequentialGroup()
@@ -189,8 +220,11 @@ public class PizzaMachine    extends javax.swing.JFrame {
                                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                                     .addComponent(jLabel2)
                                     .addComponent(jLabel4)
-                                    .addComponent(jScrollPane2, javax.swing.GroupLayout.PREFERRED_SIZE, 197, javax.swing.GroupLayout.PREFERRED_SIZE))))
-                        .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))))
+                                    .addComponent(jScrollPane2, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 197, javax.swing.GroupLayout.PREFERRED_SIZE))))
+                        .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                    .addGroup(layout.createSequentialGroup()
+                        .addComponent(jLabel6)
+                        .addGap(0, 10, Short.MAX_VALUE))))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -205,21 +239,20 @@ public class PizzaMachine    extends javax.swing.JFrame {
                         .addComponent(meduim)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                         .addComponent(large)
-                        .addGap(52, 52, 52)
+                        .addGap(18, 18, 18)
                         .addComponent(jLabel3)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                         .addComponent(deepDish)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                        .addComponent(pan)
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                        .addComponent(pan))
                     .addGroup(layout.createSequentialGroup()
                         .addContainerGap()
                         .addComponent(jLabel4)
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                        .addComponent(jLabel2)
                         .addGap(18, 18, 18)
-                        .addComponent(jScrollPane2, javax.swing.GroupLayout.PREFERRED_SIZE, 184, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addGap(31, 31, 31)))
+                        .addComponent(jLabel2)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(jScrollPane2, javax.swing.GroupLayout.PREFERRED_SIZE, 153, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                .addGap(18, 18, 18)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(viewInformation)
                     .addComponent(confirmTheOrder)
@@ -228,7 +261,9 @@ public class PizzaMachine    extends javax.swing.JFrame {
                 .addComponent(jLabel5)
                 .addGap(18, 18, 18)
                 .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 120, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap())
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                .addComponent(jLabel6)
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
 
         pack();
@@ -257,7 +292,10 @@ public class PizzaMachine    extends javax.swing.JFrame {
     private void viewInformationActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_viewInformationActionPerformed
         // TODO add your handling code here:
         //if view is enabled then display the information on the Text Area
-        jTextArea1.setText(s);
+        if(ordered)
+            jTextArea1.setText(s);
+        else
+            JOptionPane.showMessageDialog(this, "you must confirm your order first");
     }//GEN-LAST:event_viewInformationActionPerformed
 
     private void confirmTheOrderActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_confirmTheOrderActionPerformed
@@ -276,33 +314,40 @@ public class PizzaMachine    extends javax.swing.JFrame {
        else if(deepDish.isSelected())
            type = 2;
        
-       Pizza pizza = new Pizza(size, type, logger);
-       //********************************************
-        ArrayList<Ingredient> toppings = new ArrayList<>();
-        toppings.add(new Ingredient("Mozzarella Cheese", 170 * size, 476 * size)); // index : 0
-        toppings.add(new Ingredient("Tomatoes", 120 * size, 22 * size));
-        toppings.add(new Ingredient("Garlic", 7 * size, 4 * size));
-        toppings.add(new Ingredient("Onion", 115 * size, 44 * size));
-        toppings.add(new Ingredient("Pizza Sauce", 56 * size, 28 * size));
-        toppings.add(new Ingredient("Oregano ", 10 * size, 31 * size));
-        toppings.add(new Ingredient("Olives ", 10 * size, 31 * size));
-        toppings.add(new Ingredient("Red Peppers", 10 * size, 31 * size)); 
+       if(size != 0 && type != 0){
+           Pizza pizza = new Pizza(size, type, logger);
+           ordered = true;
+           //********************************************
+            ArrayList<Ingredient> toppings = new ArrayList<>();
+            toppings.add(new Ingredient("Mozzarella Cheese", 170 * size, 476 * size)); // index : 0
+            toppings.add(new Ingredient("Tomatoes", 120 * size, 22 * size));
+            toppings.add(new Ingredient("Garlic", 7 * size, 4 * size));
+            toppings.add(new Ingredient("Onion", 115 * size, 44 * size));
+            toppings.add(new Ingredient("Pizza Sauce", 56 * size, 28 * size));
+            toppings.add(new Ingredient("Oregano ", 10 * size, 31 * size));
+            toppings.add(new Ingredient("Olives ", 10 * size, 31 * size));
+            toppings.add(new Ingredient("Red Peppers", 10 * size, 31 * size)); 
 
-        //toppings
-        int[] selectedToppings = jList1.getSelectedIndices();
-        for(int i = 0, n = selectedToppings.length; i < n; i++){
-            pizza.getPan().addTopping(toppings.get(selectedToppings[i]));
-        }
-        
-        s = pizza.getInfo(); 
-//        jTextArea1.setText(s);
-        logger.log("Pizza was delivered\n****************************************");
-        size = type = 0;
+            //toppings
+            int[] selectedToppings = jList1.getSelectedIndices();
+            for(int i = 0, n = selectedToppings.length; i < n; i++){
+                pizza.getPan().addTopping(toppings.get(selectedToppings[i]));
+            }
+
+            s = pizza.getInfo(); 
+    //        jTextArea1.setText(s);
+            logger.log("Pizza was delivered\n****************************************");
+            size = type = 0;
+       }
+       else{
+           JOptionPane.showMessageDialog(this, "please specify the type and size of your pizza");
+       } 
     }//GEN-LAST:event_confirmTheOrderActionPerformed
 
     private void newOrderActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_newOrderActionPerformed
         // TODO add your handling code here:
         //if this botton is enabled then the screen will be cleared... //I GUESS THERE IS A BETTER WAY TO DO THIS
+        ordered = false;
         int[] clearedArray = jList1.getSelectedIndices();
         for(int i = 0 ; i < jList1.getSelectedIndices().length ; i++)
             clearedArray[i] = -1;
@@ -313,6 +358,11 @@ public class PizzaMachine    extends javax.swing.JFrame {
         
     }//GEN-LAST:event_newOrderActionPerformed
 
+    private void CloseBtnActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_CloseBtnActionPerformed
+        logger.log("\n--------------------\n|RESTAURANT CLOSED|\n--------------------");
+        System.exit(0);
+    }//GEN-LAST:event_CloseBtnActionPerformed
+
     /**
      * @param args the command line arguments
      */
@@ -321,16 +371,19 @@ public class PizzaMachine    extends javax.swing.JFrame {
    
     
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JMenuItem CloseBtn;
     private javax.swing.ButtonGroup buttonGroup1;
     private javax.swing.ButtonGroup buttonGroup2;
     private javax.swing.JButton confirmTheOrder;
     private javax.swing.JRadioButton deepDish;
     private javax.swing.Box.Filler filler1;
+    private javax.swing.JDesktopPane jDesktopPane1;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel2;
     private javax.swing.JLabel jLabel3;
     private javax.swing.JLabel jLabel4;
     private javax.swing.JLabel jLabel5;
+    private javax.swing.JLabel jLabel6;
     private javax.swing.JList<String> jList1;
     private javax.swing.JMenu jMenu1;
     private javax.swing.JMenu jMenu2;

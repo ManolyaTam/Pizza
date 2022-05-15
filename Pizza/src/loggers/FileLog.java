@@ -16,8 +16,8 @@ public class FileLog implements Logger{
         
         FileWriter fw;
         try {
-            fw = new FileWriter(new File("Pizza\\src\\pizza\\log.txt"), true);
-            fw.write( dateFormat.format(currentDate) + " at " + timeFormat.format(currentDate) + "\t" +  str + "\n");
+            fw = new FileWriter(new File("log.txt"), true);
+            fw.write(dateFormat.format(currentDate) + " at " + timeFormat.format(currentDate) + "\t" +  str + "\n");
             fw.close();
         } catch (IOException ex) {
 
