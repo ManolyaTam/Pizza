@@ -4,6 +4,8 @@ import classes.Pizza;
 import loggers.FileLog;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 
 public class PizzaMachine    extends javax.swing.JFrame {
@@ -49,6 +51,8 @@ public class PizzaMachine    extends javax.swing.JFrame {
         jList1 = new javax.swing.JList<>();
         jLabel2 = new javax.swing.JLabel();
         jLabel6 = new javax.swing.JLabel();
+        jProgressBar1 = new javax.swing.JProgressBar();
+        progressVal = new javax.swing.JLabel();
         jMenuBar1 = new javax.swing.JMenuBar();
         jMenu1 = new javax.swing.JMenu();
         CloseBtn = new javax.swing.JMenuItem();
@@ -167,6 +171,12 @@ public class PizzaMachine    extends javax.swing.JFrame {
         jLabel6.setForeground(new java.awt.Color(255, 0, 0));
         jLabel6.setText("Note: to close this window, go to [File -> Close] or use the shortcut [Shift + c]");
 
+        jProgressBar1.setMaximum(5);
+        jProgressBar1.setEnabled(false);
+
+        progressVal.setText("0%");
+        progressVal.setEnabled(false);
+
         jMenu1.setText("File");
 
         CloseBtn.setAccelerator(javax.swing.KeyStroke.getKeyStroke(java.awt.event.KeyEvent.VK_C, java.awt.event.InputEvent.SHIFT_DOWN_MASK));
@@ -194,11 +204,26 @@ public class PizzaMachine    extends javax.swing.JFrame {
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(layout.createSequentialGroup()
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addComponent(jLabel5)
-                            .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 375, javax.swing.GroupLayout.PREFERRED_SIZE))
-                        .addContainerGap(11, Short.MAX_VALUE))
-                    .addGroup(layout.createSequentialGroup()
-                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                            .addComponent(deepDish)
+                            .addComponent(jLabel3)
+                            .addComponent(pan)
+                            .addComponent(meduim)
+                            .addComponent(small)
+                            .addComponent(large)
+                            .addComponent(jLabel1))
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 22, Short.MAX_VALUE)
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                            .addComponent(jLabel2)
+                            .addComponent(jLabel4)
+                            .addComponent(jScrollPane2, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 197, javax.swing.GroupLayout.PREFERRED_SIZE))
+                        .addContainerGap(22, Short.MAX_VALUE))
+                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                            .addGroup(layout.createSequentialGroup()
+                                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                                    .addComponent(jLabel5)
+                                    .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 375, javax.swing.GroupLayout.PREFERRED_SIZE))
+                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 1, javax.swing.GroupLayout.PREFERRED_SIZE))
                             .addGroup(layout.createSequentialGroup()
                                 .addGap(0, 0, Short.MAX_VALUE)
                                 .addComponent(confirmTheOrder)
@@ -206,25 +231,14 @@ public class PizzaMachine    extends javax.swing.JFrame {
                                 .addComponent(viewInformation)
                                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                                 .addComponent(newOrder)
-                                .addGap(12, 12, 12))
-                            .addGroup(layout.createSequentialGroup()
-                                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                                    .addComponent(deepDish)
-                                    .addComponent(jLabel3)
-                                    .addComponent(pan)
-                                    .addComponent(meduim)
-                                    .addComponent(small)
-                                    .addComponent(large)
-                                    .addComponent(jLabel1))
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                                    .addComponent(jLabel2)
-                                    .addComponent(jLabel4)
-                                    .addComponent(jScrollPane2, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 197, javax.swing.GroupLayout.PREFERRED_SIZE))))
-                        .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                                .addGap(23, 23, 23))
+                            .addComponent(jLabel6))
+                        .addContainerGap())
                     .addGroup(layout.createSequentialGroup()
-                        .addComponent(jLabel6)
-                        .addGap(0, 10, Short.MAX_VALUE))))
+                        .addComponent(jProgressBar1, javax.swing.GroupLayout.PREFERRED_SIZE, 333, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                        .addComponent(progressVal)
+                        .addGap(0, 0, Short.MAX_VALUE))))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -253,6 +267,10 @@ public class PizzaMachine    extends javax.swing.JFrame {
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addComponent(jScrollPane2, javax.swing.GroupLayout.PREFERRED_SIZE, 153, javax.swing.GroupLayout.PREFERRED_SIZE)))
                 .addGap(18, 18, 18)
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                    .addComponent(jProgressBar1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                    .addComponent(progressVal, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 28, Short.MAX_VALUE)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(viewInformation)
                     .addComponent(confirmTheOrder)
@@ -263,10 +281,11 @@ public class PizzaMachine    extends javax.swing.JFrame {
                 .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 120, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addComponent(jLabel6)
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                .addContainerGap())
         );
 
         pack();
+        setLocationRelativeTo(null);
     }// </editor-fold>//GEN-END:initComponents
 
     private void smallActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_smallActionPerformed
@@ -299,6 +318,8 @@ public class PizzaMachine    extends javax.swing.JFrame {
     }//GEN-LAST:event_viewInformationActionPerformed
 
     private void confirmTheOrderActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_confirmTheOrderActionPerformed
+       jProgressBar1.setVisible(false);
+       progressVal.setVisible(false);
        int size = 0, type = 0;
        // getting size
        if(small.isSelected())
@@ -333,10 +354,21 @@ public class PizzaMachine    extends javax.swing.JFrame {
             for(int i = 0, n = selectedToppings.length; i < n; i++){
                 pizza.getPan().addTopping(toppings.get(selectedToppings[i]));
             }
-
+            jProgressBar1.setVisible(true);
+            progressVal.setVisible(true);
+           try {
+                for(int i = 0; i <= 100; i++){
+                    pizza.getPan().bake();
+                    progressVal.setText(i + "%");
+                    jProgressBar1.setValue(i);
+                }
+           } catch (InterruptedException ex) {
+               logger.log(ex + "");
+           }
+           
             s = pizza.getInfo(); 
     //        jTextArea1.setText(s);
-            logger.log("Pizza was delivered\n****************************************");
+            logger.log("Pizza delivered\n****************************************");
             size = type = 0;
        }
        else{
@@ -355,6 +387,8 @@ public class PizzaMachine    extends javax.swing.JFrame {
         buttonGroup2.clearSelection();
         jList1.setSelectedIndices(clearedArray);
         jTextArea1.setText("");
+        jProgressBar1.setValue(0);
+        progressVal.setText("0%");
         
     }//GEN-LAST:event_newOrderActionPerformed
 
@@ -388,6 +422,7 @@ public class PizzaMachine    extends javax.swing.JFrame {
     private javax.swing.JMenu jMenu1;
     private javax.swing.JMenu jMenu2;
     private javax.swing.JMenuBar jMenuBar1;
+    private javax.swing.JProgressBar jProgressBar1;
     private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JScrollPane jScrollPane2;
     private javax.swing.JTextArea jTextArea1;
@@ -395,6 +430,7 @@ public class PizzaMachine    extends javax.swing.JFrame {
     private javax.swing.JRadioButton meduim;
     private javax.swing.JButton newOrder;
     private javax.swing.JRadioButton pan;
+    private javax.swing.JLabel progressVal;
     private javax.swing.JRadioButton small;
     private javax.swing.JButton viewInformation;
     // End of variables declaration//GEN-END:variables

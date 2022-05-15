@@ -41,22 +41,24 @@ public class Pan implements MyInfo{
         weight += dough.getWeight();
         calories += dough.getCalories();
     }
+    
+    public void bake() throws InterruptedException{
+        logger.log("baking the pizza");
+        Thread.sleep(10); // millisec
+    }
 
     public void addTopping(Ingredient ing){
-        logger.log("adding " + ing.getName() + "\n");// ch 2
+        logger.log("adding " + ing.getName() + "\n");
         toppings.add(ing);
         weight += ing.getWeight();
         calories += ing.getCalories();
     }
     
     @Override
-    public String getInfo() { // TODO
+    public String getInfo() {
         translate();
         return "Pan Type: " + type + "\n" + "Pan Size = " + size + "\nToppings:\n" +  toppingsInfo() + "\n" + slicesInfo(); // + slices.getInfo 
     }
-    //String getSliceInfo()
-    // weight/ slices
-    // calories / slices // /this.slices /this.slices
 
     
     public String slicesInfo() {

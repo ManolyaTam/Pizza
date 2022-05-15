@@ -207,3 +207,2335 @@ Details:
 --------------------
 |RESTAURANT CLOSED|
 --------------------
+15/18/2022 at 10:18:41	Pizza #1 was ordered
+Details:
+
+15/18/2022 at 10:18:41	mixing dough
+
+15/18/2022 at 10:18:41	pouring dough into pan
+
+15/18/2022 at 10:18:41	adding Garlic
+
+15/18/2022 at 10:18:41	Pizza was delivered
+****************************************
+15/19/2022 at 10:19:04	
+--------------------
+|RESTAURANT CLOSED|
+--------------------
+15/21/2022 at 10:21:48	Pizza #1 was ordered
+Details:
+
+15/21/2022 at 10:21:48	mixing dough
+
+15/21/2022 at 10:21:48	pouring dough into pan
+
+15/21/2022 at 10:21:48	adding Olives 
+
+15/21/2022 at 10:21:48	baking the pizza
+15/21/2022 at 10:21:49	Pizza was delivered
+****************************************
+15/33/2022 at 10:33:06	Pizza #1 was ordered
+Details:
+
+15/33/2022 at 10:33:06	mixing dough
+
+15/33/2022 at 10:33:06	pouring dough into pan
+
+15/33/2022 at 10:33:06	adding Pizza Sauce
+
+15/33/2022 at 10:33:06	baking the pizza
+15/33/2022 at 10:33:07	Pizza was delivered
+****************************************
+15/33/2022 at 10:33:33	Pizza #1 was ordered
+Details:
+
+15/33/2022 at 10:33:33	mixing dough
+
+15/33/2022 at 10:33:33	pouring dough into pan
+
+15/33/2022 at 10:33:33	adding Oregano 
+
+15/33/2022 at 10:33:33	baking the pizza
+15/34/2022 at 10:34:03	Pizza was delivered
+****************************************
+15/43/2022 at 10:43:27	Pizza #1 was ordered
+Details:
+
+15/43/2022 at 10:43:27	mixing dough
+
+15/43/2022 at 10:43:27	pouring dough into pan
+
+15/43/2022 at 10:43:27	adding Onion
+
+15/43/2022 at 10:43:27	baking the pizza
+15/43/2022 at 10:43:37	Pizza delivered
+****************************************
+15/43/2022 at 10:43:44	
+--------------------
+|RESTAURANT CLOSED|
+--------------------
+15/58/2022 at 10:58:00	Pizza #1 was ordered
+Details:
+
+15/58/2022 at 10:58:00	mixing dough
+
+15/58/2022 at 10:58:00	pouring dough into pan
+
+15/58/2022 at 10:58:00	adding Oregano 
+
+15/58/2022 at 10:58:00	baking the pizza
+15/58/2022 at 10:58:01	baking the pizza
+15/58/2022 at 10:58:02	baking the pizza
+15/58/2022 at 10:58:03	baking the pizza
+15/58/2022 at 10:58:04	baking the pizza
+15/58/2022 at 10:58:05	Pizza delivered
+****************************************
+15/58/2022 at 10:58:28	
+--------------------
+|RESTAURANT CLOSED|
+--------------------
+15/00/2022 at 11:00:16	Pizza #1 was ordered
+Details:
+
+15/00/2022 at 11:00:16	mixing dough
+
+15/00/2022 at 11:00:16	pouring dough into pan
+
+15/00/2022 at 11:00:16	adding Olives 
+
+15/00/2022 at 11:00:16	baking the pizza
+15/00/2022 at 11:00:17	baking the pizza
+15/00/2022 at 11:00:18	baking the pizza
+15/00/2022 at 11:00:19	baking the pizza
+15/00/2022 at 11:00:21	baking the pizza
+15/00/2022 at 11:00:22	Pizza delivered
+****************************************
+15/00/2022 at 11:00:40	
+--------------------
+|RESTAURANT CLOSED|
+--------------------
+15/01/2022 at 11:01:12	Pizza #1 was ordered
+Details:
+
+15/01/2022 at 11:01:12	mixing dough
+
+15/01/2022 at 11:01:12	pouring dough into pan
+
+15/01/2022 at 11:01:12	adding Oregano 
+
+15/01/2022 at 11:01:12	baking the pizza
+15/01/2022 at 11:01:13	baking the pizza
+15/01/2022 at 11:01:14	baking the pizza
+15/01/2022 at 11:01:15	baking the pizza
+15/01/2022 at 11:01:16	baking the pizza
+15/01/2022 at 11:01:17	Pizza delivered
+****************************************
+15/01/2022 at 11:01:24	
+--------------------
+|RESTAURANT CLOSED|
+--------------------
+15/02/2022 at 11:02:51	Pizza #1 was ordered
+Details:
+
+15/02/2022 at 11:02:51	mixing dough
+
+15/02/2022 at 11:02:51	pouring dough into pan
+
+15/02/2022 at 11:02:51	adding Olives 
+
+15/02/2022 at 11:02:51	baking the pizza
+15/02/2022 at 11:02:51	baking the pizza
+15/02/2022 at 11:02:51	baking the pizza
+15/02/2022 at 11:02:51	baking the pizza
+15/02/2022 at 11:02:51	baking the pizza
+15/02/2022 at 11:02:51	baking the pizza
+15/02/2022 at 11:02:52	baking the pizza
+15/02/2022 at 11:02:52	baking the pizza
+15/02/2022 at 11:02:52	baking the pizza
+15/02/2022 at 11:02:52	baking the pizza
+15/02/2022 at 11:02:52	baking the pizza
+15/02/2022 at 11:02:52	baking the pizza
+15/02/2022 at 11:02:52	baking the pizza
+15/02/2022 at 11:02:52	baking the pizza
+15/02/2022 at 11:02:52	baking the pizza
+15/02/2022 at 11:02:52	baking the pizza
+15/02/2022 at 11:02:52	baking the pizza
+15/02/2022 at 11:02:52	baking the pizza
+15/02/2022 at 11:02:52	baking the pizza
+15/02/2022 at 11:02:52	baking the pizza
+15/02/2022 at 11:02:52	baking the pizza
+15/02/2022 at 11:02:52	baking the pizza
+15/02/2022 at 11:02:53	baking the pizza
+15/02/2022 at 11:02:53	baking the pizza
+15/02/2022 at 11:02:53	baking the pizza
+15/02/2022 at 11:02:53	baking the pizza
+15/02/2022 at 11:02:53	baking the pizza
+15/02/2022 at 11:02:53	baking the pizza
+15/02/2022 at 11:02:53	baking the pizza
+15/02/2022 at 11:02:53	baking the pizza
+15/02/2022 at 11:02:53	baking the pizza
+15/02/2022 at 11:02:53	baking the pizza
+15/02/2022 at 11:02:53	baking the pizza
+15/02/2022 at 11:02:53	baking the pizza
+15/02/2022 at 11:02:53	baking the pizza
+15/02/2022 at 11:02:53	baking the pizza
+15/02/2022 at 11:02:53	baking the pizza
+15/02/2022 at 11:02:53	baking the pizza
+15/02/2022 at 11:02:53	baking the pizza
+15/02/2022 at 11:02:54	baking the pizza
+15/02/2022 at 11:02:54	baking the pizza
+15/02/2022 at 11:02:54	baking the pizza
+15/02/2022 at 11:02:54	baking the pizza
+15/02/2022 at 11:02:54	baking the pizza
+15/02/2022 at 11:02:54	baking the pizza
+15/02/2022 at 11:02:54	baking the pizza
+15/02/2022 at 11:02:54	baking the pizza
+15/02/2022 at 11:02:54	baking the pizza
+15/02/2022 at 11:02:54	baking the pizza
+15/02/2022 at 11:02:54	baking the pizza
+15/02/2022 at 11:02:54	baking the pizza
+15/02/2022 at 11:02:54	baking the pizza
+15/02/2022 at 11:02:54	baking the pizza
+15/02/2022 at 11:02:54	baking the pizza
+15/02/2022 at 11:02:54	baking the pizza
+15/02/2022 at 11:02:55	baking the pizza
+15/02/2022 at 11:02:55	baking the pizza
+15/02/2022 at 11:02:55	baking the pizza
+15/02/2022 at 11:02:55	baking the pizza
+15/02/2022 at 11:02:55	baking the pizza
+15/02/2022 at 11:02:55	baking the pizza
+15/02/2022 at 11:02:55	baking the pizza
+15/02/2022 at 11:02:55	baking the pizza
+15/02/2022 at 11:02:55	baking the pizza
+15/02/2022 at 11:02:55	baking the pizza
+15/02/2022 at 11:02:55	baking the pizza
+15/02/2022 at 11:02:55	baking the pizza
+15/02/2022 at 11:02:55	baking the pizza
+15/02/2022 at 11:02:55	baking the pizza
+15/02/2022 at 11:02:55	baking the pizza
+15/02/2022 at 11:02:55	baking the pizza
+15/02/2022 at 11:02:55	baking the pizza
+15/02/2022 at 11:02:56	baking the pizza
+15/02/2022 at 11:02:56	baking the pizza
+15/02/2022 at 11:02:56	baking the pizza
+15/02/2022 at 11:02:56	baking the pizza
+15/02/2022 at 11:02:56	baking the pizza
+15/02/2022 at 11:02:56	baking the pizza
+15/02/2022 at 11:02:56	baking the pizza
+15/02/2022 at 11:02:56	baking the pizza
+15/02/2022 at 11:02:56	baking the pizza
+15/02/2022 at 11:02:56	baking the pizza
+15/02/2022 at 11:02:56	baking the pizza
+15/02/2022 at 11:02:56	baking the pizza
+15/02/2022 at 11:02:56	baking the pizza
+15/02/2022 at 11:02:56	baking the pizza
+15/02/2022 at 11:02:56	baking the pizza
+15/02/2022 at 11:02:56	baking the pizza
+15/02/2022 at 11:02:57	baking the pizza
+15/02/2022 at 11:02:57	baking the pizza
+15/02/2022 at 11:02:57	baking the pizza
+15/02/2022 at 11:02:57	baking the pizza
+15/02/2022 at 11:02:57	baking the pizza
+15/02/2022 at 11:02:57	baking the pizza
+15/02/2022 at 11:02:57	baking the pizza
+15/02/2022 at 11:02:57	baking the pizza
+15/02/2022 at 11:02:57	baking the pizza
+15/02/2022 at 11:02:57	baking the pizza
+15/02/2022 at 11:02:57	baking the pizza
+15/02/2022 at 11:02:57	baking the pizza
+15/02/2022 at 11:02:57	Pizza delivered
+****************************************
+15/03/2022 at 11:03:20	
+--------------------
+|RESTAURANT CLOSED|
+--------------------
+15/07/2022 at 11:07:12	Pizza #1 was ordered
+Details:
+
+15/07/2022 at 11:07:12	mixing dough
+
+15/07/2022 at 11:07:12	pouring dough into pan
+
+15/07/2022 at 11:07:12	adding Oregano 
+
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:12	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:13	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:14	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:15	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:16	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:17	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:18	baking the pizza
+15/07/2022 at 11:07:19	baking the pizza
+15/07/2022 at 11:07:19	baking the pizza
+15/07/2022 at 11:07:19	baking the pizza
+15/07/2022 at 11:07:19	baking the pizza
+15/07/2022 at 11:07:19	baking the pizza
+15/07/2022 at 11:07:19	baking the pizza
+15/07/2022 at 11:07:19	baking the pizza
+15/07/2022 at 11:07:19	baking the pizza
+15/07/2022 at 11:07:19	baking the pizza
+15/07/2022 at 11:07:19	baking the pizza
+15/07/2022 at 11:07:19	baking the pizza
+15/07/2022 at 11:07:19	baking the pizza
+15/07/2022 at 11:07:19	baking the pizza
+15/07/2022 at 11:07:19	baking the pizza
+15/07/2022 at 11:07:19	baking the pizza
+15/07/2022 at 11:07:19	baking the pizza
+15/07/2022 at 11:07:19	baking the pizza
+15/07/2022 at 11:07:19	baking the pizza
+15/07/2022 at 11:07:19	baking the pizza
+15/07/2022 at 11:07:19	baking the pizza
+15/07/2022 at 11:07:19	baking the pizza
+15/07/2022 at 11:07:19	baking the pizza
+15/07/2022 at 11:07:19	baking the pizza
+15/07/2022 at 11:07:19	baking the pizza
+15/07/2022 at 11:07:19	baking the pizza
+15/07/2022 at 11:07:19	baking the pizza
+15/07/2022 at 11:07:19	baking the pizza
+15/07/2022 at 11:07:19	baking the pizza
+15/07/2022 at 11:07:19	baking the pizza
+15/07/2022 at 11:07:19	baking the pizza
+15/07/2022 at 11:07:19	baking the pizza
+15/07/2022 at 11:07:19	baking the pizza
+15/07/2022 at 11:07:19	baking the pizza
+15/07/2022 at 11:07:19	baking the pizza
+15/07/2022 at 11:07:19	baking the pizza
+15/07/2022 at 11:07:19	Pizza delivered
+****************************************
+15/07/2022 at 11:07:22	
+--------------------
+|RESTAURANT CLOSED|
+--------------------
+15/09/2022 at 11:09:10	Pizza #1 was ordered
+Details:
+
+15/09/2022 at 11:09:10	mixing dough
+
+15/09/2022 at 11:09:10	pouring dough into pan
+
+15/09/2022 at 11:09:10	adding Oregano 
+
+15/09/2022 at 11:09:10	baking the pizza
+15/09/2022 at 11:09:10	baking the pizza
+15/09/2022 at 11:09:11	baking the pizza
+15/09/2022 at 11:09:11	baking the pizza
+15/09/2022 at 11:09:12	baking the pizza
+15/09/2022 at 11:09:12	baking the pizza
+15/09/2022 at 11:09:13	baking the pizza
+15/09/2022 at 11:09:13	baking the pizza
+15/09/2022 at 11:09:14	baking the pizza
+15/09/2022 at 11:09:14	baking the pizza
+15/09/2022 at 11:09:15	Pizza delivered
+****************************************
+15/09/2022 at 11:09:23	
+--------------------
+|RESTAURANT CLOSED|
+--------------------
+15/13/2022 at 11:13:37	
+--------------------
+|RESTAURANT CLOSED|
+--------------------
+15/13/2022 at 11:13:43	Pizza #1 was ordered
+Details:
+
+15/13/2022 at 11:13:43	mixing dough
+
+15/13/2022 at 11:13:43	pouring dough into pan
+
+15/13/2022 at 11:13:43	adding Pizza Sauce
+
+15/13/2022 at 11:13:43	baking the pizza
+15/13/2022 at 11:13:43	baking the pizza
+15/13/2022 at 11:13:43	baking the pizza
+15/13/2022 at 11:13:43	baking the pizza
+15/13/2022 at 11:13:43	baking the pizza
+15/13/2022 at 11:13:43	baking the pizza
+15/13/2022 at 11:13:43	baking the pizza
+15/13/2022 at 11:13:43	baking the pizza
+15/13/2022 at 11:13:44	baking the pizza
+15/13/2022 at 11:13:44	baking the pizza
+15/13/2022 at 11:13:44	baking the pizza
+15/13/2022 at 11:13:44	baking the pizza
+15/13/2022 at 11:13:44	baking the pizza
+15/13/2022 at 11:13:44	baking the pizza
+15/13/2022 at 11:13:44	baking the pizza
+15/13/2022 at 11:13:44	baking the pizza
+15/13/2022 at 11:13:44	baking the pizza
+15/13/2022 at 11:13:45	baking the pizza
+15/13/2022 at 11:13:45	baking the pizza
+15/13/2022 at 11:13:45	baking the pizza
+15/13/2022 at 11:13:45	baking the pizza
+15/13/2022 at 11:13:45	baking the pizza
+15/13/2022 at 11:13:45	baking the pizza
+15/13/2022 at 11:13:45	baking the pizza
+15/13/2022 at 11:13:45	baking the pizza
+15/13/2022 at 11:13:45	baking the pizza
+15/13/2022 at 11:13:46	baking the pizza
+15/13/2022 at 11:13:46	baking the pizza
+15/13/2022 at 11:13:46	baking the pizza
+15/13/2022 at 11:13:46	baking the pizza
+15/13/2022 at 11:13:46	baking the pizza
+15/13/2022 at 11:13:46	baking the pizza
+15/13/2022 at 11:13:46	baking the pizza
+15/13/2022 at 11:13:46	baking the pizza
+15/13/2022 at 11:13:46	baking the pizza
+15/13/2022 at 11:13:47	baking the pizza
+15/13/2022 at 11:13:47	baking the pizza
+15/13/2022 at 11:13:47	baking the pizza
+15/13/2022 at 11:13:47	baking the pizza
+15/13/2022 at 11:13:47	baking the pizza
+15/13/2022 at 11:13:47	baking the pizza
+15/13/2022 at 11:13:47	baking the pizza
+15/13/2022 at 11:13:47	baking the pizza
+15/13/2022 at 11:13:47	baking the pizza
+15/13/2022 at 11:13:47	baking the pizza
+15/13/2022 at 11:13:48	baking the pizza
+15/13/2022 at 11:13:48	baking the pizza
+15/13/2022 at 11:13:48	baking the pizza
+15/13/2022 at 11:13:48	baking the pizza
+15/13/2022 at 11:13:48	baking the pizza
+15/13/2022 at 11:13:48	baking the pizza
+15/13/2022 at 11:13:48	baking the pizza
+15/13/2022 at 11:13:48	baking the pizza
+15/13/2022 at 11:13:48	baking the pizza
+15/13/2022 at 11:13:49	baking the pizza
+15/13/2022 at 11:13:49	baking the pizza
+15/13/2022 at 11:13:49	baking the pizza
+15/13/2022 at 11:13:49	baking the pizza
+15/13/2022 at 11:13:49	baking the pizza
+15/13/2022 at 11:13:49	baking the pizza
+15/13/2022 at 11:13:49	baking the pizza
+15/13/2022 at 11:13:49	baking the pizza
+15/13/2022 at 11:13:49	baking the pizza
+15/13/2022 at 11:13:50	baking the pizza
+15/13/2022 at 11:13:50	baking the pizza
+15/13/2022 at 11:13:50	baking the pizza
+15/13/2022 at 11:13:50	baking the pizza
+15/13/2022 at 11:13:50	baking the pizza
+15/13/2022 at 11:13:50	baking the pizza
+15/13/2022 at 11:13:50	baking the pizza
+15/13/2022 at 11:13:50	baking the pizza
+15/13/2022 at 11:13:50	baking the pizza
+15/13/2022 at 11:13:51	baking the pizza
+15/13/2022 at 11:13:51	baking the pizza
+15/13/2022 at 11:13:51	baking the pizza
+15/13/2022 at 11:13:51	baking the pizza
+15/13/2022 at 11:13:51	baking the pizza
+15/13/2022 at 11:13:51	baking the pizza
+15/13/2022 at 11:13:51	baking the pizza
+15/13/2022 at 11:13:51	baking the pizza
+15/13/2022 at 11:13:51	baking the pizza
+15/13/2022 at 11:13:52	baking the pizza
+15/13/2022 at 11:13:52	baking the pizza
+15/13/2022 at 11:13:52	baking the pizza
+15/13/2022 at 11:13:52	baking the pizza
+15/13/2022 at 11:13:52	baking the pizza
+15/13/2022 at 11:13:52	baking the pizza
+15/13/2022 at 11:13:52	baking the pizza
+15/13/2022 at 11:13:52	baking the pizza
+15/13/2022 at 11:13:52	baking the pizza
+15/13/2022 at 11:13:53	baking the pizza
+15/13/2022 at 11:13:53	baking the pizza
+15/13/2022 at 11:13:53	baking the pizza
+15/13/2022 at 11:13:53	baking the pizza
+15/13/2022 at 11:13:53	baking the pizza
+15/13/2022 at 11:13:53	baking the pizza
+15/13/2022 at 11:13:53	baking the pizza
+15/13/2022 at 11:13:53	baking the pizza
+15/13/2022 at 11:13:53	baking the pizza
+15/13/2022 at 11:13:53	baking the pizza
+15/13/2022 at 11:13:54	baking the pizza
+15/13/2022 at 11:13:54	Pizza delivered
+****************************************
+15/15/2022 at 11:15:48	Pizza #1 was ordered
+Details:
+
+15/15/2022 at 11:15:49	mixing dough
+
+15/15/2022 at 11:15:49	pouring dough into pan
+
+15/15/2022 at 11:15:49	adding Pizza Sauce
+
+15/15/2022 at 11:15:49	baking the pizza
+15/15/2022 at 11:15:49	baking the pizza
+15/15/2022 at 11:15:49	baking the pizza
+15/15/2022 at 11:15:49	baking the pizza
+15/15/2022 at 11:15:49	baking the pizza
+15/15/2022 at 11:15:49	baking the pizza
+15/15/2022 at 11:15:49	baking the pizza
+15/15/2022 at 11:15:49	baking the pizza
+15/15/2022 at 11:15:49	baking the pizza
+15/15/2022 at 11:15:50	baking the pizza
+15/15/2022 at 11:15:50	baking the pizza
+15/15/2022 at 11:15:50	baking the pizza
+15/15/2022 at 11:15:50	baking the pizza
+15/15/2022 at 11:15:50	baking the pizza
+15/15/2022 at 11:15:50	baking the pizza
+15/15/2022 at 11:15:50	baking the pizza
+15/15/2022 at 11:15:50	baking the pizza
+15/15/2022 at 11:15:50	baking the pizza
+15/15/2022 at 11:15:50	baking the pizza
+15/15/2022 at 11:15:51	baking the pizza
+15/15/2022 at 11:15:51	baking the pizza
+15/15/2022 at 11:15:51	baking the pizza
+15/15/2022 at 11:15:51	baking the pizza
+15/15/2022 at 11:15:51	baking the pizza
+15/15/2022 at 11:15:51	baking the pizza
+15/15/2022 at 11:15:51	baking the pizza
+15/15/2022 at 11:15:51	baking the pizza
+15/15/2022 at 11:15:52	baking the pizza
+15/15/2022 at 11:15:52	baking the pizza
+15/15/2022 at 11:15:52	baking the pizza
+15/15/2022 at 11:15:52	baking the pizza
+15/15/2022 at 11:15:52	baking the pizza
+15/15/2022 at 11:15:52	baking the pizza
+15/15/2022 at 11:15:52	baking the pizza
+15/15/2022 at 11:15:52	baking the pizza
+15/15/2022 at 11:15:52	baking the pizza
+15/15/2022 at 11:15:53	baking the pizza
+15/15/2022 at 11:15:53	baking the pizza
+15/15/2022 at 11:15:53	baking the pizza
+15/15/2022 at 11:15:53	baking the pizza
+15/15/2022 at 11:15:53	baking the pizza
+15/15/2022 at 11:15:53	baking the pizza
+15/15/2022 at 11:15:53	baking the pizza
+15/15/2022 at 11:15:53	baking the pizza
+15/15/2022 at 11:15:53	baking the pizza
+15/15/2022 at 11:15:53	baking the pizza
+15/15/2022 at 11:15:54	baking the pizza
+15/15/2022 at 11:15:54	baking the pizza
+15/15/2022 at 11:15:54	baking the pizza
+15/15/2022 at 11:15:54	baking the pizza
+15/15/2022 at 11:15:54	baking the pizza
+15/15/2022 at 11:15:54	baking the pizza
+15/15/2022 at 11:15:54	baking the pizza
+15/15/2022 at 11:15:54	baking the pizza
+15/15/2022 at 11:15:54	baking the pizza
+15/15/2022 at 11:15:55	baking the pizza
+15/15/2022 at 11:15:55	baking the pizza
+15/15/2022 at 11:15:55	baking the pizza
+15/15/2022 at 11:15:55	baking the pizza
+15/15/2022 at 11:15:55	baking the pizza
+15/15/2022 at 11:15:55	baking the pizza
+15/15/2022 at 11:15:55	baking the pizza
+15/15/2022 at 11:15:55	baking the pizza
+15/15/2022 at 11:15:55	baking the pizza
+15/15/2022 at 11:15:56	baking the pizza
+15/15/2022 at 11:15:56	baking the pizza
+15/15/2022 at 11:15:56	baking the pizza
+15/15/2022 at 11:15:56	baking the pizza
+15/15/2022 at 11:15:56	baking the pizza
+15/15/2022 at 11:15:56	baking the pizza
+15/15/2022 at 11:15:56	baking the pizza
+15/15/2022 at 11:15:56	baking the pizza
+15/15/2022 at 11:15:56	baking the pizza
+15/15/2022 at 11:15:57	baking the pizza
+15/15/2022 at 11:15:57	baking the pizza
+15/15/2022 at 11:15:57	baking the pizza
+15/15/2022 at 11:15:57	baking the pizza
+15/15/2022 at 11:15:57	baking the pizza
+15/15/2022 at 11:15:57	baking the pizza
+15/15/2022 at 11:15:57	baking the pizza
+15/15/2022 at 11:15:57	baking the pizza
+15/15/2022 at 11:15:57	baking the pizza
+15/15/2022 at 11:15:58	baking the pizza
+15/15/2022 at 11:15:58	baking the pizza
+15/15/2022 at 11:15:58	baking the pizza
+15/15/2022 at 11:15:58	baking the pizza
+15/15/2022 at 11:15:58	baking the pizza
+15/15/2022 at 11:15:58	baking the pizza
+15/15/2022 at 11:15:58	baking the pizza
+15/15/2022 at 11:15:58	baking the pizza
+15/15/2022 at 11:15:58	baking the pizza
+15/15/2022 at 11:15:58	baking the pizza
+15/15/2022 at 11:15:59	baking the pizza
+15/15/2022 at 11:15:59	baking the pizza
+15/15/2022 at 11:15:59	baking the pizza
+15/15/2022 at 11:15:59	baking the pizza
+15/15/2022 at 11:15:59	baking the pizza
+15/15/2022 at 11:15:59	baking the pizza
+15/15/2022 at 11:15:59	baking the pizza
+15/15/2022 at 11:15:59	baking the pizza
+15/15/2022 at 11:15:59	baking the pizza
+15/16/2022 at 11:16:00	Pizza delivered
+****************************************
+15/16/2022 at 11:16:08	
+--------------------
+|RESTAURANT CLOSED|
+--------------------
+15/16/2022 at 11:16:38	
+--------------------
+|RESTAURANT CLOSED|
+--------------------
+15/19/2022 at 11:19:50	Pizza #1 was ordered
+Details:
+
+15/19/2022 at 11:19:50	mixing dough
+
+15/19/2022 at 11:19:50	pouring dough into pan
+
+15/19/2022 at 11:19:50	adding Oregano 
+
+15/19/2022 at 11:19:50	baking the pizza
+15/19/2022 at 11:19:50	baking the pizza
+15/19/2022 at 11:19:50	baking the pizza
+15/19/2022 at 11:19:50	baking the pizza
+15/19/2022 at 11:19:50	baking the pizza
+15/19/2022 at 11:19:50	baking the pizza
+15/19/2022 at 11:19:50	baking the pizza
+15/19/2022 at 11:19:50	baking the pizza
+15/19/2022 at 11:19:50	baking the pizza
+15/19/2022 at 11:19:50	baking the pizza
+15/19/2022 at 11:19:50	baking the pizza
+15/19/2022 at 11:19:50	baking the pizza
+15/19/2022 at 11:19:50	baking the pizza
+15/19/2022 at 11:19:50	baking the pizza
+15/19/2022 at 11:19:50	baking the pizza
+15/19/2022 at 11:19:50	baking the pizza
+15/19/2022 at 11:19:50	baking the pizza
+15/19/2022 at 11:19:50	baking the pizza
+15/19/2022 at 11:19:50	baking the pizza
+15/19/2022 at 11:19:50	baking the pizza
+15/19/2022 at 11:19:50	baking the pizza
+15/19/2022 at 11:19:50	baking the pizza
+15/19/2022 at 11:19:50	baking the pizza
+15/19/2022 at 11:19:50	baking the pizza
+15/19/2022 at 11:19:50	baking the pizza
+15/19/2022 at 11:19:50	baking the pizza
+15/19/2022 at 11:19:50	baking the pizza
+15/19/2022 at 11:19:50	baking the pizza
+15/19/2022 at 11:19:50	baking the pizza
+15/19/2022 at 11:19:50	baking the pizza
+15/19/2022 at 11:19:50	baking the pizza
+15/19/2022 at 11:19:50	baking the pizza
+15/19/2022 at 11:19:50	baking the pizza
+15/19/2022 at 11:19:50	baking the pizza
+15/19/2022 at 11:19:50	baking the pizza
+15/19/2022 at 11:19:50	baking the pizza
+15/19/2022 at 11:19:50	baking the pizza
+15/19/2022 at 11:19:50	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:51	baking the pizza
+15/19/2022 at 11:19:52	baking the pizza
+15/19/2022 at 11:19:52	baking the pizza
+15/19/2022 at 11:19:52	baking the pizza
+15/19/2022 at 11:19:52	baking the pizza
+15/19/2022 at 11:19:52	baking the pizza
+15/19/2022 at 11:19:52	baking the pizza
+15/19/2022 at 11:19:52	baking the pizza
+15/19/2022 at 11:19:52	baking the pizza
+15/19/2022 at 11:19:52	Pizza delivered
+****************************************
+15/19/2022 at 11:19:56	
+--------------------
+|RESTAURANT CLOSED|
+--------------------
+15/20/2022 at 11:20:55	Pizza #1 was ordered
+Details:
+
+15/20/2022 at 11:20:55	mixing dough
+
+15/20/2022 at 11:20:55	pouring dough into pan
+
+15/20/2022 at 11:20:55	adding Pizza Sauce
+
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:55	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:56	baking the pizza
+15/20/2022 at 11:20:57	baking the pizza
+15/20/2022 at 11:20:57	Pizza delivered
+****************************************
+15/21/2022 at 11:21:01	
+--------------------
+|RESTAURANT CLOSED|
+--------------------
+15/21/2022 at 11:21:42	Pizza #1 was ordered
+Details:
+
+15/21/2022 at 11:21:42	mixing dough
+
+15/21/2022 at 11:21:42	pouring dough into pan
+
+15/21/2022 at 11:21:42	adding Pizza Sauce
+
+15/21/2022 at 11:21:42	baking the pizza
+15/21/2022 at 11:21:42	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:43	baking the pizza
+15/21/2022 at 11:21:44	baking the pizza
+15/21/2022 at 11:21:44	baking the pizza
+15/21/2022 at 11:21:44	baking the pizza
+15/21/2022 at 11:21:44	baking the pizza
+15/21/2022 at 11:21:44	baking the pizza
+15/21/2022 at 11:21:44	baking the pizza
+15/21/2022 at 11:21:44	baking the pizza
+15/21/2022 at 11:21:44	baking the pizza
+15/21/2022 at 11:21:44	baking the pizza
+15/21/2022 at 11:21:44	baking the pizza
+15/21/2022 at 11:21:44	baking the pizza
+15/21/2022 at 11:21:44	baking the pizza
+15/21/2022 at 11:21:44	baking the pizza
+15/21/2022 at 11:21:44	baking the pizza
+15/21/2022 at 11:21:44	baking the pizza
+15/21/2022 at 11:21:44	baking the pizza
+15/21/2022 at 11:21:44	baking the pizza
+15/21/2022 at 11:21:44	baking the pizza
+15/21/2022 at 11:21:44	baking the pizza
+15/21/2022 at 11:21:44	baking the pizza
+15/21/2022 at 11:21:44	baking the pizza
+15/21/2022 at 11:21:44	baking the pizza
+15/21/2022 at 11:21:44	baking the pizza
+15/21/2022 at 11:21:44	baking the pizza
+15/21/2022 at 11:21:44	baking the pizza
+15/21/2022 at 11:21:44	baking the pizza
+15/21/2022 at 11:21:44	baking the pizza
+15/21/2022 at 11:21:44	baking the pizza
+15/21/2022 at 11:21:44	baking the pizza
+15/21/2022 at 11:21:44	baking the pizza
+15/21/2022 at 11:21:44	baking the pizza
+15/21/2022 at 11:21:44	baking the pizza
+15/21/2022 at 11:21:44	baking the pizza
+15/21/2022 at 11:21:44	baking the pizza
+15/21/2022 at 11:21:44	baking the pizza
+15/21/2022 at 11:21:44	baking the pizza
+15/21/2022 at 11:21:44	baking the pizza
+15/21/2022 at 11:21:44	baking the pizza
+15/21/2022 at 11:21:44	baking the pizza
+15/21/2022 at 11:21:44	Pizza delivered
+****************************************
+15/21/2022 at 11:21:55	Pizza #2 was ordered
+Details:
+
+15/21/2022 at 11:21:55	mixing dough
+
+15/21/2022 at 11:21:55	pouring dough into pan
+
+15/21/2022 at 11:21:55	baking the pizza
+15/21/2022 at 11:21:55	baking the pizza
+15/21/2022 at 11:21:55	baking the pizza
+15/21/2022 at 11:21:55	baking the pizza
+15/21/2022 at 11:21:55	baking the pizza
+15/21/2022 at 11:21:55	baking the pizza
+15/21/2022 at 11:21:55	baking the pizza
+15/21/2022 at 11:21:55	baking the pizza
+15/21/2022 at 11:21:55	baking the pizza
+15/21/2022 at 11:21:55	baking the pizza
+15/21/2022 at 11:21:55	baking the pizza
+15/21/2022 at 11:21:55	baking the pizza
+15/21/2022 at 11:21:55	baking the pizza
+15/21/2022 at 11:21:55	baking the pizza
+15/21/2022 at 11:21:55	baking the pizza
+15/21/2022 at 11:21:55	baking the pizza
+15/21/2022 at 11:21:55	baking the pizza
+15/21/2022 at 11:21:55	baking the pizza
+15/21/2022 at 11:21:55	baking the pizza
+15/21/2022 at 11:21:55	baking the pizza
+15/21/2022 at 11:21:55	baking the pizza
+15/21/2022 at 11:21:55	baking the pizza
+15/21/2022 at 11:21:55	baking the pizza
+15/21/2022 at 11:21:55	baking the pizza
+15/21/2022 at 11:21:55	baking the pizza
+15/21/2022 at 11:21:55	baking the pizza
+15/21/2022 at 11:21:55	baking the pizza
+15/21/2022 at 11:21:55	baking the pizza
+15/21/2022 at 11:21:55	baking the pizza
+15/21/2022 at 11:21:55	baking the pizza
+15/21/2022 at 11:21:55	baking the pizza
+15/21/2022 at 11:21:55	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:56	baking the pizza
+15/21/2022 at 11:21:57	baking the pizza
+15/21/2022 at 11:21:57	baking the pizza
+15/21/2022 at 11:21:57	baking the pizza
+15/21/2022 at 11:21:57	baking the pizza
+15/21/2022 at 11:21:57	baking the pizza
+15/21/2022 at 11:21:57	baking the pizza
+15/21/2022 at 11:21:57	baking the pizza
+15/21/2022 at 11:21:57	baking the pizza
+15/21/2022 at 11:21:57	baking the pizza
+15/21/2022 at 11:21:57	baking the pizza
+15/21/2022 at 11:21:57	baking the pizza
+15/21/2022 at 11:21:57	baking the pizza
+15/21/2022 at 11:21:57	Pizza delivered
+****************************************
+15/22/2022 at 11:22:07	Pizza #3 was ordered
+Details:
+
+15/22/2022 at 11:22:07	mixing dough
+
+15/22/2022 at 11:22:07	pouring dough into pan
+
+15/22/2022 at 11:22:07	adding Garlic
+
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:07	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	baking the pizza
+15/22/2022 at 11:22:08	Pizza delivered
+****************************************
+15/22/2022 at 11:22:13	
+--------------------
+|RESTAURANT CLOSED|
+--------------------
+15/22/2022 at 11:22:36	Pizza #1 was ordered
+Details:
+
+15/22/2022 at 11:22:36	mixing dough
+
+15/22/2022 at 11:22:36	pouring dough into pan
+
+15/22/2022 at 11:22:36	adding Onion
+
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:36	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	baking the pizza
+15/22/2022 at 11:22:37	Pizza delivered
+****************************************
+15/22/2022 at 11:22:48	
+--------------------
+|RESTAURANT CLOSED|
+--------------------
+15/23/2022 at 11:23:08	Pizza #1 was ordered
+Details:
+
+15/23/2022 at 11:23:08	mixing dough
+
+15/23/2022 at 11:23:08	pouring dough into pan
+
+15/23/2022 at 11:23:08	adding Onion
+
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:08	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	baking the pizza
+15/23/2022 at 11:23:09	Pizza delivered
+****************************************
+15/23/2022 at 11:23:13	
+--------------------
+|RESTAURANT CLOSED|
+--------------------
+15/24/2022 at 11:24:31	
+--------------------
+|RESTAURANT CLOSED|
+--------------------
+15/24/2022 at 11:24:34	
+--------------------
+|RESTAURANT CLOSED|
+--------------------
+15/24/2022 at 11:24:36	
+--------------------
+|RESTAURANT CLOSED|
+--------------------

@@ -9,9 +9,6 @@ public class Pizza implements MyInfo{
     Pan pan;
     Logger logger;
     private static int count = 0;
-    
-    // dough weight + topping weight in one double variable
-    // dough calories + toppings calories in one double variable
 
     public Pizza(int panSize, int panType, Logger logger) {
         this.panSize = panSize;
@@ -30,10 +27,6 @@ public class Pizza implements MyInfo{
     public String getInfo() {
         return pan.getInfo();
     }
-
-//    public static int getCount() {
-//        return count;
-//    }
     
     
 }
