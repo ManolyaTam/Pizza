@@ -67,7 +67,7 @@ public class PizzaMachine    extends javax.swing.JFrame {
         setType(java.awt.Window.Type.POPUP);
 
         jPanel2.setBackground(new java.awt.Color(252, 236, 180));
-        jPanel2.setCursor(new java.awt.Cursor(java.awt.Cursor.N_RESIZE_CURSOR));
+        jPanel2.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
         jPanel2.setPreferredSize(new java.awt.Dimension(1000, 1000));
 
         jLabel1.setBackground(new java.awt.Color(255, 255, 255));
