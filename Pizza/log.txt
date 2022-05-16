@@ -272,3 +272,47 @@ Details:
 --------------------
 |MACHINE TURNED OFF SAFELY|
 --------------------
+16/02/2022 at 08:02:25	MACHINE TURNED ON
+****************************************
+16/02/2022 at 08:02:31	MACHINE TURNED ON
+****************************************
+16/02/2022 at 08:02:31	Pizza #1 was ordered
+Details:
+
+16/02/2022 at 08:02:31	mixing dough
+
+16/02/2022 at 08:02:31	pouring dough into pan
+
+16/02/2022 at 08:02:31	adding Oregano 
+
+16/02/2022 at 08:02:31	baking the pizza
+
+16/02/2022 at 08:02:33	Pizza delivered
+****************************************
+16/02/2022 at 08:02:44	
+--------------------
+|MACHINE TURNED OFF SAFELY|
+--------------------
+16/03/2022 at 08:03:27	
+--------------------
+|MACHINE TURNED OFF SAFELY|
+--------------------
+16/03/2022 at 08:03:43	MACHINE TURNED ON
+****************************************
+16/03/2022 at 08:03:43	Pizza #1 was ordered
+Details:
+
+16/03/2022 at 08:03:43	mixing dough
+
+16/03/2022 at 08:03:43	pouring dough into pan
+
+16/03/2022 at 08:03:43	adding Pizza Sauce
+
+16/03/2022 at 08:03:43	baking the pizza
+
+16/03/2022 at 08:03:45	Pizza delivered
+****************************************
+16/04/2022 at 08:04:15	
+--------------------
+|MACHINE TURNED OFF SAFELY|
+--------------------
