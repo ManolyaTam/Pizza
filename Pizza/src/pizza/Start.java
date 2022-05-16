@@ -36,7 +36,7 @@ public class Start extends javax.swing.JFrame {
         BackgroundPanel.setPreferredSize(new java.awt.Dimension(700, 500));
         BackgroundPanel.setRequestFocusEnabled(false);
 
-        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/image-removebg-preview (1).png"))); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/image-removebg-preview (1).png"))); // NOI18N
 
         jLabel1.setFont(new java.awt.Font("Tw Cen MT", 3, 48)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(164, 51, 49));

@@ -1,6 +1,7 @@
 package pizza;
 import classes.Ingredient;
 import classes.Pizza;
+import loggers.consolLog;
 import loggers.FileLog;
 import java.util.ArrayList;
 import java.util.List;
@@ -8,11 +9,12 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 
-public class PizzaMachine    extends javax.swing.JFrame {
+public class PizzaMachine extends javax.swing.JFrame {
    // consolLog logger = new consolLog();
     boolean ordered = false;
     String s;
     FileLog logger = new FileLog();
+//    consolLog logger = new consolLog();
     public PizzaMachine() {
         initComponents();
     }
@@ -62,7 +64,6 @@ public class PizzaMachine    extends javax.swing.JFrame {
         setBackground(new java.awt.Color(248, 223, 157));
         setForeground(new java.awt.Color(248, 223, 157));
         setUndecorated(true);
-        setPreferredSize(new java.awt.Dimension(600, 700));
         setResizable(false);
         setType(java.awt.Window.Type.POPUP);
 
@@ -201,7 +202,7 @@ public class PizzaMachine    extends javax.swing.JFrame {
         jLabel7.setToolTipText("");
 
         backBtn.setBackground(new java.awt.Color(252, 236, 180));
-        backBtn.setIcon(new javax.swing.ImageIcon(getClass().getResource("/arrow-left.png"))); // NOI18N
+        backBtn.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/arrow-left.png"))); // NOI18N
         backBtn.setBorder(null);
         backBtn.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -372,10 +373,7 @@ public class PizzaMachine    extends javax.swing.JFrame {
        else if(deepDish.isSelected())
            type = 2;
        
-       if(size != 0 && type != 0){
-           Pizza pizza = new Pizza(size, type, logger);
-           ordered = true;
-           //********************************************
+           //********************************************toppings initailization
             ArrayList<Ingredient> toppings = new ArrayList<>();
             toppings.add(new Ingredient("Mozzarella Cheese", 170 * size, 476 * size)); // index : 0
             toppings.add(new Ingredient("Tomatoes", 120 * size, 22 * size));
@@ -385,16 +383,19 @@ public class PizzaMachine    extends javax.swing.JFrame {
             toppings.add(new Ingredient("Oregano ", 10 * size, 31 * size));
             toppings.add(new Ingredient("Olives ", 10 * size, 31 * size));
             toppings.add(new Ingredient("Red Peppers", 10 * size, 31 * size)); 
+            
+        int[] selectedToppings = jList1.getSelectedIndices();
+        if(size != 0 && type != 0 && selectedToppings.length != 0){
+            ordered = true;
+            Pizza pizza = new Pizza(size, type, logger);
 
-            //toppings
-            int[] selectedToppings = jList1.getSelectedIndices();
+            //toppings : user must choose at least one
             for(int i = 0, n = selectedToppings.length; i < n; i++){
                 pizza.getPan().addTopping(toppings.get(selectedToppings[i]));
             }
             jProgressBar1.setVisible(true);
             progressVal.setVisible(true);
-           try {
-               
+            try {
                 logger.log("baking the pizza\n");
                 for(int i = 0; i <= 100; i++){
                     pizza.getPan().bake();
@@ -406,14 +407,14 @@ public class PizzaMachine    extends javax.swing.JFrame {
            }
            
             s = pizza.getInfo(); 
-    //        jTextArea1.setText(s);
             logger.log("Pizza delivered\n****************************************");
             size = type = 0;
             viewInformation.setEnabled(true);
             newOrder.setEnabled(true);
+            confirmTheOrder.setEnabled(false);
        }
        else{
-           JOptionPane.showMessageDialog(this, "please specify the type and size of your pizza");
+           JOptionPane.showMessageDialog(this, "please specify the type, size of your pizza, and at least 1 topping");
        } 
     }//GEN-LAST:event_confirmTheOrderActionPerformed
 
@@ -432,6 +433,7 @@ public class PizzaMachine    extends javax.swing.JFrame {
         progressVal.setText("0%");
         viewInformation.setEnabled(false);
         newOrder.setEnabled(false);
+        confirmTheOrder.setEnabled(true);
         
     }//GEN-LAST:event_newOrderActionPerformed
 
