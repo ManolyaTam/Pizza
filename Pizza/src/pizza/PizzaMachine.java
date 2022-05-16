@@ -215,14 +215,14 @@ public class PizzaMachine extends javax.swing.JFrame {
         jPanel2Layout.setHorizontalGroup(
             jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel2Layout.createSequentialGroup()
-                .addContainerGap()
                 .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(jPanel2Layout.createSequentialGroup()
-                        .addComponent(backBtn, javax.swing.GroupLayout.PREFERRED_SIZE, 41, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addGap(114, 114, 114)
+                        .addGap(19, 19, 19)
+                        .addComponent(backBtn)
+                        .addGap(119, 119, 119)
                         .addComponent(jLabel7, javax.swing.GroupLayout.PREFERRED_SIZE, 229, javax.swing.GroupLayout.PREFERRED_SIZE))
                     .addGroup(jPanel2Layout.createSequentialGroup()
-                        .addGap(49, 49, 49)
+                        .addGap(59, 59, 59)
                         .addComponent(jProgressBar1, javax.swing.GroupLayout.PREFERRED_SIZE, 465, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                         .addComponent(progressVal)))
@@ -262,11 +262,11 @@ public class PizzaMachine extends javax.swing.JFrame {
         jPanel2Layout.setVerticalGroup(
             jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel2Layout.createSequentialGroup()
-                .addGap(14, 14, 14)
-                .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(backBtn)
-                    .addComponent(jLabel7, javax.swing.GroupLayout.PREFERRED_SIZE, 21, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addGap(3, 3, 3)
+                .addContainerGap()
+                .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                    .addComponent(jLabel7, javax.swing.GroupLayout.PREFERRED_SIZE, 21, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(backBtn))
+                .addGap(13, 13, 13)
                 .addComponent(jSeparator2, javax.swing.GroupLayout.PREFERRED_SIZE, 10, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(5, 5, 5)
                 .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -305,7 +305,7 @@ public class PizzaMachine extends javax.swing.JFrame {
                 .addComponent(jLabel5)
                 .addGap(18, 18, 18)
                 .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 180, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(33, Short.MAX_VALUE))
+                .addContainerGap(26, Short.MAX_VALUE))
         );
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
@@ -385,7 +385,16 @@ public class PizzaMachine extends javax.swing.JFrame {
             toppings.add(new Ingredient("Red Peppers", 10 * size, 31 * size)); 
             
         int[] selectedToppings = jList1.getSelectedIndices();
-        if(size != 0 && type != 0 && selectedToppings.length != 0){
+        if(size == 0){
+        JOptionPane.showMessageDialog(this, "please specify the size of the pizza");
+        }
+        else if(type == 0){
+            JOptionPane.showMessageDialog(this, "please specify the type of the pizza");
+        }
+        else if(selectedToppings.length == 0){
+            JOptionPane.showMessageDialog(this, "please select at least one topping");
+        }
+        else{
             ordered = true;
             Pizza pizza = new Pizza(size, type, logger);
 
@@ -413,9 +422,6 @@ public class PizzaMachine extends javax.swing.JFrame {
             newOrder.setEnabled(true);
             confirmTheOrder.setEnabled(false);
        }
-       else{
-           JOptionPane.showMessageDialog(this, "please specify the type, size of your pizza, and at least 1 topping");
-       } 
     }//GEN-LAST:event_confirmTheOrderActionPerformed
 
     private void newOrderActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_newOrderActionPerformed

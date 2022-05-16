@@ -1,0 +1,55 @@
+16/31/2022 at 05:31:34	
+--------------------
+|MACHINE TURNED OFF SAFELY|
+--------------------
+16/35/2022 at 05:35:27	MACHINE TURNED ON
+****************************************
+16/35/2022 at 05:35:31	MACHINE TURNED ON
+****************************************
+16/35/2022 at 05:35:34	MACHINE TURNED ON
+****************************************
+16/35/2022 at 05:35:38	MACHINE TURNED ON
+****************************************
+16/35/2022 at 05:35:38	Pizza #1 was ordered
+Details:
+
+16/35/2022 at 05:35:38	mixing dough
+
+16/35/2022 at 05:35:38	pouring dough into pan
+
+16/35/2022 at 05:35:38	adding Onion
+
+16/35/2022 at 05:35:38	baking the pizza
+
+16/35/2022 at 05:35:40	Pizza delivered
+****************************************
+16/35/2022 at 05:35:49	Pizza #2 was ordered
+Details:
+
+16/35/2022 at 05:35:49	mixing dough
+
+16/35/2022 at 05:35:49	pouring dough into pan
+
+16/35/2022 at 05:35:49	adding Oregano 
+
+16/35/2022 at 05:35:49	baking the pizza
+
+16/35/2022 at 05:35:50	Pizza delivered
+****************************************
+16/36/2022 at 05:36:04	Pizza #3 was ordered
+Details:
+
+16/36/2022 at 05:36:04	mixing dough
+
+16/36/2022 at 05:36:04	pouring dough into pan
+
+16/36/2022 at 05:36:04	adding Onion
+
+16/36/2022 at 05:36:04	baking the pizza
+
+16/36/2022 at 05:36:05	Pizza delivered
+****************************************
+16/36/2022 at 05:36:10	
+--------------------
+|MACHINE TURNED OFF SAFELY|
+--------------------
