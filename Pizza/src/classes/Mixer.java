@@ -5,7 +5,7 @@ import java.util.ArrayList;
 
 public class Mixer implements MyInfo{
 //    private Ingredient dough = new Ingredient("Dough", 0, 0);
-    private ArrayList<Ingredient> dough = new ArrayList(); // do not share with other classes (top secret)
+    private ArrayList<Ingredient> dough = new ArrayList(); // do not share with other classes (top secret) // but still, i need it in pizzaMachine Class -.-
     private int panType;
     private int panSize;
     private float weight = 0;
@@ -13,13 +13,18 @@ public class Mixer implements MyInfo{
     private Logger logger;
     
     // TO DO : sth here has to do with the data base (recording all resources used)
-    public Mixer(int panSize, int panType, Logger logger) {                                             // recipe depends on pan Size and pan type specified by user
+    public Mixer(int panSize, int panType, Logger logger) {           // recipe depends on pan Size and pan type specified by user
         this.panSize = panSize;
         this.panType = panType;
         this.logger = logger;
         addIngredients();
         mix();
     }
+
+    public ArrayList<Ingredient> getDoughArray() {
+        return dough;
+    }
+    
     private void addIngredients(){
         dough.add(new Ingredient("Flour", 300 * panSize, 1092 * panSize));// totalFlour -=  300 * panSize
         dough.add(new Ingredient("Oil", 108 * panSize, 955 * panSize));

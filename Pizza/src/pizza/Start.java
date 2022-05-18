@@ -122,7 +122,7 @@ public class Start extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
-        logger.log("\n--------------------\n|MACHINE TURNED OFF SAFELY|\n--------------------");
+        logger.log("|MACHINE TURNED OFF SAFELY|\n--------------------");
         System.exit(0);
     }//GEN-LAST:event_jButton1ActionPerformed
 

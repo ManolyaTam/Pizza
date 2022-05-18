@@ -11,6 +11,12 @@ public class Ingredient implements MyInfo{
         this.calories = calories;
     }
     
+    public Ingredient(String name, double weight){
+        this.name = name;
+        this.weight = weight;
+        this.calories = calories;
+    }
+    
     public double getWeight() {
         return weight;
     }

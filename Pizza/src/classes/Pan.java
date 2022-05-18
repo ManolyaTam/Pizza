@@ -28,6 +28,10 @@ public class Pan implements MyInfo{
         pourDough();
     }
 
+    public Mixer getDough() {
+        return dough;
+    }
+    
     public double getWeight() {
         return weight;
     }

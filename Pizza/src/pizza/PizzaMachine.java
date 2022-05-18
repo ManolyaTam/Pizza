@@ -1,24 +1,49 @@
 package pizza;
 import classes.Ingredient;
 import classes.Pizza;
-import loggers.consolLog;
-import loggers.FileLog;
+import exceptions.AmountNotAvailableException;
+import loggers.*;
 import java.util.ArrayList;
-import java.util.List;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 
 public class PizzaMachine extends javax.swing.JFrame {
-   // consolLog logger = new consolLog();
     boolean ordered = false;
     String s;
     FileLog logger = new FileLog();
 //    consolLog logger = new consolLog();
+    
+    ArrayList<Ingredient> DoughTotalIng;
+    ArrayList<Ingredient> totalToppings;
+    
     public PizzaMachine() {
         initComponents();
+        
+        loadMachine(4);
     }
 
+    void loadMachine(double shares){
+        // each time this method is called.. the machine is filled to the max (without considering what it already had) 
+        DoughTotalIng = new ArrayList<>();
+        totalToppings = new ArrayList<>();
+        
+        
+        DoughTotalIng.add(new Ingredient("total Flour", 300 * shares));//300 * shares                  // index = 0
+        DoughTotalIng.add(new Ingredient("total Oil", 108 * shares));
+        DoughTotalIng.add(new Ingredient("total Sugar", 4.25 * shares));
+        DoughTotalIng.add(new Ingredient("total Salt", 6 * shares));
+        DoughTotalIng.add(new Ingredient("total Yeast", 3.1 * (shares + 3 * shares/2)));
+        DoughTotalIng.add(new Ingredient("total Milk", 240 * shares)); // 240 * shares
+
+        totalToppings.add(new Ingredient("total Mmozzarella Cheese", 170 * shares)); //170 * shares    //index = 0
+        totalToppings.add(new Ingredient("total Tomatoes", 0 * shares));//120 * shares
+        totalToppings.add(new Ingredient("total Garlic", 7 * shares)); // 7 * shares
+        totalToppings.add(new Ingredient("total Onion", 115 * shares));
+        totalToppings.add(new Ingredient("total Sauce", 56 * shares));
+        totalToppings.add(new Ingredient("total Oregano", 10 * shares));
+        totalToppings.add(new Ingredient("total Olives", 10 * shares));
+        totalToppings.add(new Ingredient("total Red Peppers", 10 * shares));
+
+    }
     public static void main(String args[]) {
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
@@ -373,70 +398,79 @@ public class PizzaMachine extends javax.swing.JFrame {
        else if(deepDish.isSelected())
            type = 2;
        
-           //********************************************toppings initailization
-            ArrayList<Ingredient> toppings = new ArrayList<>();
-            toppings.add(new Ingredient("Mozzarella Cheese", 170 * size, 476 * size)); // index : 0
-            toppings.add(new Ingredient("Tomatoes", 120 * size, 22 * size));
-            toppings.add(new Ingredient("Garlic", 7 * size, 4 * size));
-            toppings.add(new Ingredient("Onion", 115 * size, 44 * size));
-            toppings.add(new Ingredient("Pizza Sauce", 56 * size, 28 * size));
-            toppings.add(new Ingredient("Oregano ", 10 * size, 31 * size));
-            toppings.add(new Ingredient("Olives ", 10 * size, 31 * size));
-            toppings.add(new Ingredient("Red Peppers", 10 * size, 31 * size)); 
+       //********************************************toppings initailization
+        ArrayList<Ingredient> toppings = new ArrayList<>();
+        toppings.add(new Ingredient("Mozzarella Cheese", 170 * size, 476 * size)); // index : 0
+        toppings.add(new Ingredient("Tomatoes", 120 * size, 22 * size));
+        toppings.add(new Ingredient("Garlic", 7 * size, 4 * size));
+        toppings.add(new Ingredient("Onion", 115 * size, 44 * size));
+        toppings.add(new Ingredient("Pizza Sauce", 56 * size, 28 * size));
+        toppings.add(new Ingredient("Oregano ", 10 * size, 31 * size));
+        toppings.add(new Ingredient("Olives ", 10 * size, 31 * size));
+        toppings.add(new Ingredient("Red Peppers", 10 * size, 31 * size)); 
             
-        int[] selectedToppings = jList1.getSelectedIndices();
+        int[] selectedToppingsIndecies = jList1.getSelectedIndices();
+        ArrayList<Ingredient> Selectedtoppings = new ArrayList<>();
+        
+        for(int i = 0, n = selectedToppingsIndecies.length; i < n; i++){
+            Ingredient e = toppings.get(selectedToppingsIndecies[i]);
+            Selectedtoppings.add(e);
+        }
+        
         if(size == 0){
         JOptionPane.showMessageDialog(this, "please specify the size of the pizza");
         }
         else if(type == 0){
             JOptionPane.showMessageDialog(this, "please specify the type of the pizza");
         }
-        else if(selectedToppings.length == 0){
+        else if(selectedToppingsIndecies.length == 0){
             JOptionPane.showMessageDialog(this, "please select at least one topping");
         }
         else{
             ordered = true;
             Pizza pizza = new Pizza(size, type, logger);
+            
+            //checking if enough dough Ingredients are available
+            ArrayList<Ingredient> doughArr = pizza.getPan().getDough().getDoughArray();
+            boolean isEnough = compare(DoughTotalIng, doughArr);
+            
+            if(isEnough){
+                //checking if enough toppings are available
+                isEnough = compare(totalToppings, Selectedtoppings);
+                if(isEnough){
+                    for(int i = 0, n = selectedToppingsIndecies.length; i < n; i++){
+                        pizza.getPan().addTopping(Selectedtoppings.get(i));
+                    }
+                    
+                    jProgressBar1.setVisible(true);
+                    progressVal.setVisible(true);
+                    try {
+                        logger.log("baking the pizza\n");
+                        for(int i = 0; i <= 100; i++){
+                            pizza.getPan().bake();
+                            progressVal.setText(i + "%");
+                            jProgressBar1.setValue(i);
+                        }
+                   } catch (InterruptedException ex) {
+                       logger.log(ex.getMessage());
+                   }
 
-            //toppings : user must choose at least one
-            for(int i = 0, n = selectedToppings.length; i < n; i++){
-                pizza.getPan().addTopping(toppings.get(selectedToppings[i]));
-            }
-            jProgressBar1.setVisible(true);
-            progressVal.setVisible(true);
-            try {
-                logger.log("baking the pizza\n");
-                for(int i = 0; i <= 100; i++){
-                    pizza.getPan().bake();
-                    progressVal.setText(i + "%");
-                    jProgressBar1.setValue(i);
+                    s = pizza.getInfo(); 
+                    logger.log("Pizza delivered\n****************************************");
+                    size = type = 0;
+                    viewInformation.setEnabled(true);
+                    newOrder.setEnabled(true);
+                    confirmTheOrder.setEnabled(false);
+    //                clearSelections();
                 }
-           } catch (InterruptedException ex) {
-               logger.log(ex + "");
-           }
-           
-            s = pizza.getInfo(); 
-            logger.log("Pizza delivered\n****************************************");
-            size = type = 0;
-            viewInformation.setEnabled(true);
-            newOrder.setEnabled(true);
-            confirmTheOrder.setEnabled(false);
+            }
        }
     }//GEN-LAST:event_confirmTheOrderActionPerformed
 
     private void newOrderActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_newOrderActionPerformed
         // TODO add your handling code here:
         //if this botton is enabled then the screen will be cleared... //I GUESS THERE IS A BETTER WAY TO DO THIS
-        ordered = false;
-        int[] clearedArray = jList1.getSelectedIndices();
-        for(int i = 0 ; i < jList1.getSelectedIndices().length ; i++)
-            clearedArray[i] = -1;
-        buttonGroup1.clearSelection();
-        buttonGroup2.clearSelection();
-        jList1.setSelectedIndices(clearedArray);
-        jTextArea1.setText("");
-        jProgressBar1.setValue(0);
-        progressVal.setText("0%");
+        clearSelections();
         viewInformation.setEnabled(false);
         newOrder.setEnabled(false);
         confirmTheOrder.setEnabled(true);
@@ -444,6 +478,15 @@ public class PizzaMachine extends javax.swing.JFrame {
     }//GEN-LAST:event_newOrderActionPerformed
 
     private void backBtnActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_backBtnActionPerformed
+        viewInformation.setEnabled(false);
+        newOrder.setEnabled(false);
+        confirmTheOrder.setEnabled(true);
+        clearSelections();
+        setVisible(false);
+        new Start().setVisible(true);
+    }//GEN-LAST:event_backBtnActionPerformed
+    
+    private void clearSelections() {
         ordered = false;
         int[] clearedArray = jList1.getSelectedIndices();
         for(int i = 0 ; i < jList1.getSelectedIndices().length ; i++)
@@ -454,16 +497,33 @@ public class PizzaMachine extends javax.swing.JFrame {
         jTextArea1.setText("");
         jProgressBar1.setValue(0);
         progressVal.setText("0%");
-        setVisible(false);
-        new Start().setVisible(true);
-        viewInformation.setEnabled(false);
-        newOrder.setEnabled(false);
-    }//GEN-LAST:event_backBtnActionPerformed
-
-    /**
-     * @param args the command line arguments
-     */
+        
+    }
     
+    private boolean compare(ArrayList<Ingredient> availableArr, ArrayList<Ingredient> wantedArr){
+        int i = 0, n = wantedArr.size();
+            boolean isEnough = true;
+            while(i < n && isEnough){
+                    double wanted = wantedArr.get(i).getWeight();
+                    double available = availableArr.get(i).getWeight();
+                    try{
+                        if(wanted > available){
+                            clearSelections();
+                            isEnough = false;
+                            throw new AmountNotAvailableException(wantedArr.get(i).getName());
+                        }
+                        else{
+                            availableArr.get(i).setWeight(available - wanted);
+                            i++;
+                        }
+                    }
+                    catch (AmountNotAvailableException ex) {
+                        JOptionPane.showMessageDialog(this, ex.getMessage());
+                        logger.log(ex.getMessage());
+                    }
+                }
+            return isEnough;
+    }
 
    
     
@@ -496,5 +556,6 @@ public class PizzaMachine extends javax.swing.JFrame {
     private javax.swing.JRadioButton small;
     private javax.swing.JButton viewInformation;
     // End of variables declaration//GEN-END:variables
+
 
 }
