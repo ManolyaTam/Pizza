@@ -18,7 +18,7 @@ public class PizzaMachine extends javax.swing.JFrame {
     public PizzaMachine() {
         initComponents();
         
-        loadMachine(4);
+        loadMachine(15);
     }
 
     void loadMachine(double shares){
@@ -35,13 +35,13 @@ public class PizzaMachine extends javax.swing.JFrame {
         DoughTotalIng.add(new Ingredient("total Milk", 240 * shares)); // 240 * shares
 
         totalToppings.add(new Ingredient("total Mmozzarella Cheese", 170 * shares)); //170 * shares    //index = 0
-        totalToppings.add(new Ingredient("total Tomatoes", 0 * shares));//120 * shares
-        totalToppings.add(new Ingredient("total Garlic", 7 * shares)); // 7 * shares
+        totalToppings.add(new Ingredient("total Tomatoes", 40 * shares));//120 * shares
+        totalToppings.add(new Ingredient("total Garlic", 40 * shares)); // 7 * shares
         totalToppings.add(new Ingredient("total Onion", 115 * shares));
-        totalToppings.add(new Ingredient("total Sauce", 56 * shares));
-        totalToppings.add(new Ingredient("total Oregano", 10 * shares));
-        totalToppings.add(new Ingredient("total Olives", 10 * shares));
-        totalToppings.add(new Ingredient("total Red Peppers", 10 * shares));
+        totalToppings.add(new Ingredient("total Sauce", 100 * shares));
+        totalToppings.add(new Ingredient("total Oregano", 60 * shares));
+        totalToppings.add(new Ingredient("total Olives", 60 * shares));
+        totalToppings.add(new Ingredient("total Red Peppers", 70 * shares));
 
     }
     public static void main(String args[]) {
@@ -245,13 +245,13 @@ public class PizzaMachine extends javax.swing.JFrame {
                         .addGap(19, 19, 19)
                         .addComponent(backBtn)
                         .addGap(119, 119, 119)
-                        .addComponent(jLabel7, javax.swing.GroupLayout.PREFERRED_SIZE, 229, javax.swing.GroupLayout.PREFERRED_SIZE))
+                        .addComponent(jLabel7, javax.swing.GroupLayout.PREFERRED_SIZE, 249, javax.swing.GroupLayout.PREFERRED_SIZE))
                     .addGroup(jPanel2Layout.createSequentialGroup()
                         .addGap(59, 59, 59)
                         .addComponent(jProgressBar1, javax.swing.GroupLayout.PREFERRED_SIZE, 465, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                         .addComponent(progressVal)))
-                .addContainerGap(39, Short.MAX_VALUE))
+                .addContainerGap(37, Short.MAX_VALUE))
             .addComponent(jSeparator2)
             .addGroup(jPanel2Layout.createSequentialGroup()
                 .addGap(58, 58, 58)
@@ -259,8 +259,8 @@ public class PizzaMachine extends javax.swing.JFrame {
                     .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 474, javax.swing.GroupLayout.PREFERRED_SIZE)
                     .addGroup(jPanel2Layout.createSequentialGroup()
                         .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
-                            .addComponent(confirmTheOrder, javax.swing.GroupLayout.PREFERRED_SIZE, 137, javax.swing.GroupLayout.PREFERRED_SIZE)
-                            .addComponent(jLabel5))
+                            .addComponent(jLabel5)
+                            .addComponent(confirmTheOrder, javax.swing.GroupLayout.PREFERRED_SIZE, 161, javax.swing.GroupLayout.PREFERRED_SIZE))
                         .addGap(18, 18, 18)
                         .addComponent(viewInformation, javax.swing.GroupLayout.PREFERRED_SIZE, 143, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addGap(18, 18, 18)
@@ -288,10 +288,13 @@ public class PizzaMachine extends javax.swing.JFrame {
             jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel2Layout.createSequentialGroup()
                 .addContainerGap()
-                .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
-                    .addComponent(jLabel7, javax.swing.GroupLayout.PREFERRED_SIZE, 21, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(backBtn))
-                .addGap(13, 13, 13)
+                .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(jPanel2Layout.createSequentialGroup()
+                        .addComponent(backBtn)
+                        .addGap(13, 13, 13))
+                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel2Layout.createSequentialGroup()
+                        .addComponent(jLabel7)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)))
                 .addComponent(jSeparator2, javax.swing.GroupLayout.PREFERRED_SIZE, 10, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(5, 5, 5)
                 .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -330,7 +333,7 @@ public class PizzaMachine extends javax.swing.JFrame {
                 .addComponent(jLabel5)
                 .addGap(18, 18, 18)
                 .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 180, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(26, Short.MAX_VALUE))
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
@@ -341,7 +344,7 @@ public class PizzaMachine extends javax.swing.JFrame {
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jPanel2, javax.swing.GroupLayout.DEFAULT_SIZE, 700, Short.MAX_VALUE)
+            .addComponent(jPanel2, javax.swing.GroupLayout.PREFERRED_SIZE, 700, Short.MAX_VALUE)
         );
 
         pack();
@@ -504,7 +507,8 @@ public class PizzaMachine extends javax.swing.JFrame {
         int i = 0, n = wantedArr.size();
             boolean isEnough = true;
             while(i < n && isEnough){
-                    double wanted = wantedArr.get(i).getWeight();
+                    double wanted = 0;
+                    wanted += wantedArr.get(i).getWeight();
                     double available = availableArr.get(i).getWeight();
                     try{
                         if(wanted > available){
