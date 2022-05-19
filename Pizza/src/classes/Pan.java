@@ -1,7 +1,9 @@
 package classes;
 
+import exceptions.PanOverflowException;
 import loggers.Logger;
 import java.util.ArrayList;
+import javax.swing.JOptionPane;
 
 public class Pan implements MyInfo{   
 //   panSize and panType have multiple choices, each choice is represented with an integer starting from 1
@@ -9,6 +11,7 @@ public class Pan implements MyInfo{
 
     private ArrayList<Ingredient> toppings = new ArrayList(); // NOT USED // name it toppings?
      
+    private double capacity;
     private double weight;
     private double calories;
     private int panSize;
@@ -24,10 +27,15 @@ public class Pan implements MyInfo{
         this.panSize = panSize;
         this.panType = panType;
         this.logger = logger;
+        this.capacity = panSize * 150;//* 250;
         dough = new Mixer(this.panSize, this.panType, logger); // prepare the dough
         pourDough();
     }
 
+    public double getCapacity() {
+        return capacity;
+    }
+    
     public Mixer getDough() {
         return dough;
     }
@@ -50,11 +58,16 @@ public class Pan implements MyInfo{
         Thread.sleep(10); // millisec
     }
 
-    public void addTopping(Ingredient ing){
+    public void addTopping(Ingredient ing) throws PanOverflowException{
         logger.log("adding " + ing.getName() + "\n");
-        toppings.add(ing);
-        weight += ing.getWeight();
-        calories += ing.getCalories();
+            if(ing.getWeight() <=  capacity){
+                toppings.add(ing);
+                weight += ing.getWeight();
+                calories += ing.getCalories();
+            }
+            else{
+                throw new PanOverflowException(ing.getName());
+            }
     }
     
     @Override

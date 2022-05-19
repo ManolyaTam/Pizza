@@ -2,6 +2,7 @@ package pizza;
 import classes.Ingredient;
 import classes.Pizza;
 import exceptions.AmountNotAvailableException;
+import exceptions.PanOverflowException;
 import loggers.*;
 import java.util.ArrayList;
 import javax.swing.JOptionPane;
@@ -10,22 +11,23 @@ public class PizzaMachine extends javax.swing.JFrame {
     boolean ordered = false;
     String s;
     FileLog logger = new FileLog();
+    double shares;
 //    consolLog logger = new consolLog();
     
     ArrayList<Ingredient> DoughTotalIng;
     ArrayList<Ingredient> totalToppings;
-    ArrayList<Ingredient> toppings = new ArrayList<>();
-    ArrayList<Ingredient> Selectedtoppings = new ArrayList<>();
+    ArrayList<Ingredient> toppings;
+    ArrayList<Ingredient> Selectedtoppings;
     int[] selectedToppingsIndecies;
 
     
     public PizzaMachine() {
         initComponents();
-        
-        loadMachine(6);
+        shares = new Start().getShares();
+       loadMachine(6);
     }
 
-    void loadMachine(double shares){
+    public void loadMachine(double shares){
         // each time this method is called.. the machine is filled to the max (without considering what it already had) 
         DoughTotalIng = new ArrayList<>();
         totalToppings = new ArrayList<>();
@@ -384,9 +386,11 @@ public class PizzaMachine extends javax.swing.JFrame {
     }//GEN-LAST:event_viewInformationActionPerformed
 
     private void confirmTheOrderActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_confirmTheOrderActionPerformed
-       if(Pizza.getCount() == 0){
+        toppings = new ArrayList<>();
+        Selectedtoppings = new ArrayList<>();
+        if(Pizza.getCount() == 0){
            log("MACHINE TURNED ON\n****************************************");
-       }
+        }
         jProgressBar1.setVisible(false);
         progressVal.setVisible(false);
         int size = GUIgetSize();
@@ -417,9 +421,18 @@ public class PizzaMachine extends javax.swing.JFrame {
                 isEnough = compare(totalToppings, Selectedtoppings);
                 if(isEnough){
                     for(int i = 0, n = selectedToppingsIndecies.length; i < n; i++){
-                        pizza.getPan().addTopping(Selectedtoppings.get(i));
+                        try{
+                            pizza.getPan().addTopping(Selectedtoppings.get(i));
+                        }
+                        catch(PanOverflowException ex){
+                            logger.log(ex.getMessage());
+                            showMessage(ex.getMessage());
+                            viewInformation.setEnabled(false);
+                            newOrder.setEnabled(false);
+                            confirmTheOrder.setEnabled(true);
+                            return;
+                        }
                     }
-                    
                     jProgressBar1.setVisible(true);
                     progressVal.setVisible(true);
                     try {

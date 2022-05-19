@@ -1468,3 +1468,796 @@ Details:
 19/24/2022 at 08:24:10	there is no enough amount of Oil, please refill
 19/24/2022 at 08:24:16	|MACHINE TURNED OFF SAFELY|
 --------------------
+19/58/2022 at 08:58:04	|MACHINE TURNED OFF SAFELY|
+--------------------
+19/53/2022 at 10:53:16	|MACHINE TURNED OFF SAFELY|
+--------------------
+19/13/2022 at 11:13:10	MACHINE TURNED ON
+****************************************
+19/13/2022 at 11:13:10	Pizza #1 was ordered
+Details:
+
+19/13/2022 at 11:13:10	mixing dough
+
+19/13/2022 at 11:13:10	pouring dough into pan
+
+19/13/2022 at 11:13:10	adding Mozzarella Cheese
+
+19/13/2022 at 11:13:10	adding Tomatoes
+
+19/13/2022 at 11:13:10	adding Garlic
+
+19/13/2022 at 11:13:10	adding Onion
+
+19/13/2022 at 11:13:10	adding Pizza Sauce
+
+19/13/2022 at 11:13:10	adding Oregano 
+
+19/13/2022 at 11:13:10	adding Olives 
+
+19/13/2022 at 11:13:10	adding Red Peppers
+
+19/13/2022 at 11:13:10	baking the pizza
+
+19/13/2022 at 11:13:12	Pizza delivered
+****************************************
+19/13/2022 at 11:13:23	Pizza #2 was ordered
+Details:
+
+19/13/2022 at 11:13:23	mixing dough
+
+19/13/2022 at 11:13:23	pouring dough into pan
+
+19/13/2022 at 11:13:33	|MACHINE TURNED OFF SAFELY|
+--------------------
+19/14/2022 at 11:14:06	MACHINE TURNED ON
+****************************************
+19/14/2022 at 11:14:06	Pizza #1 was ordered
+Details:
+
+19/14/2022 at 11:14:06	mixing dough
+
+19/14/2022 at 11:14:06	pouring dough into pan
+
+19/14/2022 at 11:14:06	adding Mozzarella Cheese
+
+19/14/2022 at 11:14:06	adding Tomatoes
+
+19/14/2022 at 11:14:06	adding Garlic
+
+19/14/2022 at 11:14:06	adding Onion
+
+19/14/2022 at 11:14:06	adding Pizza Sauce
+
+19/14/2022 at 11:14:06	adding Oregano 
+
+19/14/2022 at 11:14:06	adding Olives 
+
+19/14/2022 at 11:14:06	adding Red Peppers
+
+19/14/2022 at 11:14:06	baking the pizza
+
+19/14/2022 at 11:14:08	Pizza delivered
+****************************************
+19/14/2022 at 11:14:12	|MACHINE TURNED OFF SAFELY|
+--------------------
+19/14/2022 at 11:14:46	MACHINE TURNED ON
+****************************************
+19/14/2022 at 11:14:46	Pizza #1 was ordered
+Details:
+
+19/14/2022 at 11:14:46	mixing dough
+
+19/14/2022 at 11:14:46	pouring dough into pan
+
+19/14/2022 at 11:14:46	adding Mozzarella Cheese
+
+19/14/2022 at 11:14:46	adding Tomatoes
+
+19/14/2022 at 11:14:46	adding Garlic
+
+19/14/2022 at 11:14:46	adding Onion
+
+19/14/2022 at 11:14:46	adding Pizza Sauce
+
+19/14/2022 at 11:14:46	adding Oregano 
+
+19/14/2022 at 11:14:46	adding Olives 
+
+19/14/2022 at 11:14:46	adding Red Peppers
+
+19/14/2022 at 11:14:46	baking the pizza
+
+19/14/2022 at 11:14:48	Pizza delivered
+****************************************
+19/14/2022 at 11:14:52	|MACHINE TURNED OFF SAFELY|
+--------------------
+19/15/2022 at 11:15:19	MACHINE TURNED ON
+****************************************
+19/15/2022 at 11:15:19	Pizza #1 was ordered
+Details:
+
+19/15/2022 at 11:15:19	mixing dough
+
+19/15/2022 at 11:15:19	pouring dough into pan
+
+19/15/2022 at 11:15:19	adding Pizza Sauce
+
+19/15/2022 at 11:15:19	pan cannot fit Pizza Sauce, please select less toppings
+19/15/2022 at 11:15:24	baking the pizza
+
+19/15/2022 at 11:15:26	Pizza delivered
+****************************************
+19/15/2022 at 11:15:37	Pizza #2 was ordered
+Details:
+
+19/15/2022 at 11:15:37	mixing dough
+
+19/15/2022 at 11:15:37	pouring dough into pan
+
+19/15/2022 at 11:15:37	adding Pizza Sauce
+
+19/15/2022 at 11:15:37	pan cannot fit Pizza Sauce, please select less toppings
+19/15/2022 at 11:15:39	baking the pizza
+
+19/15/2022 at 11:15:41	Pizza delivered
+****************************************
+19/15/2022 at 11:15:46	|MACHINE TURNED OFF SAFELY|
+--------------------
+19/16/2022 at 11:16:24	MACHINE TURNED ON
+****************************************
+19/16/2022 at 11:16:24	Pizza #1 was ordered
+Details:
+
+19/16/2022 at 11:16:24	mixing dough
+
+19/16/2022 at 11:16:24	pouring dough into pan
+
+19/16/2022 at 11:16:24	adding Mozzarella Cheese
+
+19/16/2022 at 11:16:24	pan cannot fit Mozzarella Cheese, please select less toppings
+19/16/2022 at 11:16:26	baking the pizza
+
+19/16/2022 at 11:16:27	Pizza delivered
+****************************************
+19/16/2022 at 11:16:30	|MACHINE TURNED OFF SAFELY|
+--------------------
+19/17/2022 at 11:17:30	MACHINE TURNED ON
+****************************************
+19/17/2022 at 11:17:30	Pizza #1 was ordered
+Details:
+
+19/17/2022 at 11:17:30	mixing dough
+
+19/17/2022 at 11:17:30	pouring dough into pan
+
+19/17/2022 at 11:17:30	adding Mozzarella Cheese
+
+19/17/2022 at 11:17:30	pan cannot fit Mozzarella Cheese, please select less toppings
+19/17/2022 at 11:17:38	Pizza #2 was ordered
+Details:
+
+19/17/2022 at 11:17:38	mixing dough
+
+19/17/2022 at 11:17:38	pouring dough into pan
+
+19/17/2022 at 11:17:49	Pizza #3 was ordered
+Details:
+
+19/17/2022 at 11:17:49	mixing dough
+
+19/17/2022 at 11:17:49	pouring dough into pan
+
+19/17/2022 at 11:17:52	|MACHINE TURNED OFF SAFELY|
+--------------------
+19/20/2022 at 11:20:43	MACHINE TURNED ON
+****************************************
+19/20/2022 at 11:20:43	Pizza #1 was ordered
+Details:
+
+19/20/2022 at 11:20:43	mixing dough
+
+19/20/2022 at 11:20:43	pouring dough into pan
+
+19/20/2022 at 11:20:43	adding Mozzarella Cheese
+
+19/20/2022 at 11:20:43	pan cannot fit Mozzarella Cheese, please select less toppings
+19/20/2022 at 11:20:50	Pizza #2 was ordered
+Details:
+
+19/20/2022 at 11:20:50	mixing dough
+
+19/20/2022 at 11:20:50	pouring dough into pan
+
+19/20/2022 at 11:20:55	|MACHINE TURNED OFF SAFELY|
+--------------------
+19/23/2022 at 11:23:37	MACHINE TURNED ON
+****************************************
+19/23/2022 at 11:23:37	Pizza #1 was ordered
+Details:
+
+19/23/2022 at 11:23:37	mixing dough
+
+19/23/2022 at 11:23:37	pouring dough into pan
+
+19/23/2022 at 11:23:37	adding Onion
+
+19/23/2022 at 11:23:37	pan cannot fit Onion, please select less toppings
+19/23/2022 at 11:23:46	|MACHINE TURNED OFF SAFELY|
+--------------------
+19/25/2022 at 11:25:45	MACHINE TURNED ON
+****************************************
+19/25/2022 at 11:25:45	Pizza #1 was ordered
+Details:
+
+19/25/2022 at 11:25:45	mixing dough
+
+19/25/2022 at 11:25:45	pouring dough into pan
+
+19/25/2022 at 11:25:45	adding Garlic
+
+19/25/2022 at 11:25:45	baking the pizza
+
+19/25/2022 at 11:25:47	Pizza delivered
+****************************************
+19/25/2022 at 11:25:52	Pizza #2 was ordered
+Details:
+
+19/25/2022 at 11:25:52	mixing dough
+
+19/25/2022 at 11:25:52	pouring dough into pan
+
+19/25/2022 at 11:25:52	adding Garlic
+
+19/25/2022 at 11:25:52	baking the pizza
+
+19/25/2022 at 11:25:54	Pizza delivered
+****************************************
+19/26/2022 at 11:26:01	Pizza #3 was ordered
+Details:
+
+19/26/2022 at 11:26:01	mixing dough
+
+19/26/2022 at 11:26:01	pouring dough into pan
+
+19/26/2022 at 11:26:03	there is no enough amount of Mozzarella Cheese, please refill
+19/26/2022 at 11:26:08	Pizza #4 was ordered
+Details:
+
+19/26/2022 at 11:26:08	mixing dough
+
+19/26/2022 at 11:26:08	pouring dough into pan
+
+19/26/2022 at 11:26:09	there is no enough amount of Mozzarella Cheese, please refill
+19/26/2022 at 11:26:14	Pizza #5 was ordered
+Details:
+
+19/26/2022 at 11:26:14	mixing dough
+
+19/26/2022 at 11:26:14	pouring dough into pan
+
+19/26/2022 at 11:26:17	there is no enough amount of Oil, please refill
+19/26/2022 at 11:26:21	|MACHINE TURNED OFF SAFELY|
+--------------------
+19/26/2022 at 11:26:29	MACHINE TURNED ON
+****************************************
+19/26/2022 at 11:26:29	Pizza #1 was ordered
+Details:
+
+19/26/2022 at 11:26:29	mixing dough
+
+19/26/2022 at 11:26:29	pouring dough into pan
+
+19/26/2022 at 11:26:29	adding Onion
+
+19/26/2022 at 11:26:29	pan cannot fit Onion, please select less toppings
+19/26/2022 at 11:26:36	|MACHINE TURNED OFF SAFELY|
+--------------------
+19/26/2022 at 11:26:47	MACHINE TURNED ON
+****************************************
+19/26/2022 at 11:26:47	Pizza #1 was ordered
+Details:
+
+19/26/2022 at 11:26:47	mixing dough
+
+19/26/2022 at 11:26:47	pouring dough into pan
+
+19/26/2022 at 11:26:47	adding Onion
+
+19/26/2022 at 11:26:47	pan cannot fit Onion, please select less toppings
+19/26/2022 at 11:26:52	Pizza #2 was ordered
+Details:
+
+19/26/2022 at 11:26:52	mixing dough
+
+19/26/2022 at 11:26:52	pouring dough into pan
+
+19/26/2022 at 11:26:52	adding Onion
+
+19/26/2022 at 11:26:52	pan cannot fit Onion, please select less toppings
+19/26/2022 at 11:26:59	|MACHINE TURNED OFF SAFELY|
+--------------------
+19/27/2022 at 11:27:30	MACHINE TURNED ON
+****************************************
+19/27/2022 at 11:27:30	Pizza #1 was ordered
+Details:
+
+19/27/2022 at 11:27:30	mixing dough
+
+19/27/2022 at 11:27:30	pouring dough into pan
+
+19/27/2022 at 11:27:30	adding Onion
+
+19/27/2022 at 11:27:30	baking the pizza
+
+19/27/2022 at 11:27:32	Pizza delivered
+****************************************
+19/27/2022 at 11:27:38	Pizza #2 was ordered
+Details:
+
+19/27/2022 at 11:27:38	mixing dough
+
+19/27/2022 at 11:27:38	pouring dough into pan
+
+19/27/2022 at 11:27:58	|MACHINE TURNED OFF SAFELY|
+--------------------
+19/28/2022 at 11:28:19	|MACHINE TURNED OFF SAFELY|
+--------------------
+19/35/2022 at 11:35:44	MACHINE TURNED ON
+****************************************
+19/35/2022 at 11:35:44	Pizza #1 was ordered
+Details:
+
+19/35/2022 at 11:35:44	mixing dough
+
+19/35/2022 at 11:35:44	pouring dough into pan
+
+19/35/2022 at 11:35:44	adding Mozzarella Cheese
+
+19/35/2022 at 11:35:44	adding Tomatoes
+
+19/35/2022 at 11:35:44	adding Garlic
+
+19/35/2022 at 11:35:44	adding Onion
+
+19/35/2022 at 11:35:44	adding Pizza Sauce
+
+19/35/2022 at 11:35:44	adding Oregano 
+
+19/35/2022 at 11:35:44	adding Olives 
+
+19/35/2022 at 11:35:44	adding Red Peppers
+
+19/35/2022 at 11:35:44	baking the pizza
+
+19/35/2022 at 11:35:46	Pizza delivered
+****************************************
+19/35/2022 at 11:35:52	Pizza #2 was ordered
+Details:
+
+19/35/2022 at 11:35:52	mixing dough
+
+19/35/2022 at 11:35:52	pouring dough into pan
+
+19/35/2022 at 11:35:57	|MACHINE TURNED OFF SAFELY|
+--------------------
+19/36/2022 at 11:36:05	MACHINE TURNED ON
+****************************************
+19/36/2022 at 11:36:05	Pizza #1 was ordered
+Details:
+
+19/36/2022 at 11:36:05	mixing dough
+
+19/36/2022 at 11:36:05	pouring dough into pan
+
+19/36/2022 at 11:36:05	adding Garlic
+
+19/36/2022 at 11:36:05	baking the pizza
+
+19/36/2022 at 11:36:07	Pizza delivered
+****************************************
+19/36/2022 at 11:36:16	Pizza #2 was ordered
+Details:
+
+19/36/2022 at 11:36:16	mixing dough
+
+19/36/2022 at 11:36:16	pouring dough into pan
+
+19/36/2022 at 11:36:16	adding Garlic
+
+19/36/2022 at 11:36:16	adding Mozzarella Cheese
+
+19/36/2022 at 11:36:16	adding Onion
+
+19/36/2022 at 11:36:16	adding Pizza Sauce
+
+19/36/2022 at 11:36:16	baking the pizza
+
+19/36/2022 at 11:36:18	Pizza delivered
+****************************************
+19/36/2022 at 11:36:24	Pizza #3 was ordered
+Details:
+
+19/36/2022 at 11:36:24	mixing dough
+
+19/36/2022 at 11:36:24	pouring dough into pan
+
+19/36/2022 at 11:36:31	|MACHINE TURNED OFF SAFELY|
+--------------------
+19/42/2022 at 11:42:16	MACHINE TURNED ON
+****************************************
+19/42/2022 at 11:42:16	Pizza #1 was ordered
+Details:
+
+19/42/2022 at 11:42:16	mixing dough
+
+19/42/2022 at 11:42:16	pouring dough into pan
+
+19/42/2022 at 11:42:16	adding Mozzarella Cheese
+
+19/42/2022 at 11:42:16	adding Tomatoes
+
+19/42/2022 at 11:42:16	adding Garlic
+
+19/42/2022 at 11:42:16	adding Onion
+
+19/42/2022 at 11:42:16	adding Pizza Sauce
+
+19/42/2022 at 11:42:16	adding Oregano 
+
+19/42/2022 at 11:42:16	adding Olives 
+
+19/42/2022 at 11:42:16	adding Red Peppers
+
+19/42/2022 at 11:42:16	baking the pizza
+
+19/42/2022 at 11:42:18	Pizza delivered
+****************************************
+19/42/2022 at 11:42:32	Pizza #2 was ordered
+Details:
+
+19/42/2022 at 11:42:32	mixing dough
+
+19/42/2022 at 11:42:32	pouring dough into pan
+
+19/42/2022 at 11:42:32	adding Mozzarella Cheese
+
+19/42/2022 at 11:42:32	adding Tomatoes
+
+19/42/2022 at 11:42:32	adding Garlic
+
+19/42/2022 at 11:42:32	adding Onion
+
+19/42/2022 at 11:42:32	adding Pizza Sauce
+
+19/42/2022 at 11:42:32	adding Oregano 
+
+19/42/2022 at 11:42:32	adding Olives 
+
+19/42/2022 at 11:42:32	adding Red Peppers
+
+19/42/2022 at 11:42:32	baking the pizza
+
+19/42/2022 at 11:42:33	Pizza delivered
+****************************************
+19/42/2022 at 11:42:43	Pizza #3 was ordered
+Details:
+
+19/42/2022 at 11:42:43	mixing dough
+
+19/42/2022 at 11:42:43	pouring dough into pan
+
+19/42/2022 at 11:42:43	adding Tomatoes
+
+19/42/2022 at 11:42:43	adding Garlic
+
+19/42/2022 at 11:42:43	adding Onion
+
+19/42/2022 at 11:42:43	adding Pizza Sauce
+
+19/42/2022 at 11:42:43	baking the pizza
+
+19/42/2022 at 11:42:44	Pizza delivered
+****************************************
+19/42/2022 at 11:42:48	|MACHINE TURNED OFF SAFELY|
+--------------------
+19/42/2022 at 11:42:56	MACHINE TURNED ON
+****************************************
+19/42/2022 at 11:42:56	Pizza #1 was ordered
+Details:
+
+19/42/2022 at 11:42:56	mixing dough
+
+19/42/2022 at 11:42:56	pouring dough into pan
+
+19/42/2022 at 11:42:56	adding Mozzarella Cheese
+
+19/42/2022 at 11:42:56	adding Tomatoes
+
+19/42/2022 at 11:42:56	adding Garlic
+
+19/42/2022 at 11:42:56	adding Onion
+
+19/42/2022 at 11:42:56	adding Pizza Sauce
+
+19/42/2022 at 11:42:56	adding Oregano 
+
+19/42/2022 at 11:42:56	adding Olives 
+
+19/42/2022 at 11:42:56	adding Red Peppers
+
+19/42/2022 at 11:42:56	baking the pizza
+
+19/42/2022 at 11:42:58	Pizza delivered
+****************************************
+19/43/2022 at 11:43:08	Pizza #2 was ordered
+Details:
+
+19/43/2022 at 11:43:08	mixing dough
+
+19/43/2022 at 11:43:08	pouring dough into pan
+
+19/43/2022 at 11:43:08	adding Mozzarella Cheese
+
+19/43/2022 at 11:43:08	adding Tomatoes
+
+19/43/2022 at 11:43:08	adding Garlic
+
+19/43/2022 at 11:43:08	adding Onion
+
+19/43/2022 at 11:43:08	adding Pizza Sauce
+
+19/43/2022 at 11:43:08	adding Oregano 
+
+19/43/2022 at 11:43:08	adding Olives 
+
+19/43/2022 at 11:43:08	adding Red Peppers
+
+19/43/2022 at 11:43:08	baking the pizza
+
+19/43/2022 at 11:43:09	Pizza delivered
+****************************************
+19/43/2022 at 11:43:24	Pizza #3 was ordered
+Details:
+
+19/43/2022 at 11:43:24	mixing dough
+
+19/43/2022 at 11:43:24	pouring dough into pan
+
+19/43/2022 at 11:43:24	adding Mozzarella Cheese
+
+19/43/2022 at 11:43:24	adding Tomatoes
+
+19/43/2022 at 11:43:24	adding Garlic
+
+19/43/2022 at 11:43:24	adding Onion
+
+19/43/2022 at 11:43:24	adding Pizza Sauce
+
+19/43/2022 at 11:43:24	adding Oregano 
+
+19/43/2022 at 11:43:24	adding Olives 
+
+19/43/2022 at 11:43:24	adding Red Peppers
+
+19/43/2022 at 11:43:24	baking the pizza
+
+19/43/2022 at 11:43:26	Pizza delivered
+****************************************
+19/43/2022 at 11:43:31	Pizza #4 was ordered
+Details:
+
+19/43/2022 at 11:43:31	mixing dough
+
+19/43/2022 at 11:43:31	pouring dough into pan
+
+19/43/2022 at 11:43:33	there is no enough amount of Oil, please refill
+19/43/2022 at 11:43:39	Pizza #5 was ordered
+Details:
+
+19/43/2022 at 11:43:39	mixing dough
+
+19/43/2022 at 11:43:39	pouring dough into pan
+
+19/43/2022 at 11:43:39	adding Pizza Sauce
+
+19/43/2022 at 11:43:39	baking the pizza
+
+19/43/2022 at 11:43:41	Pizza delivered
+****************************************
+19/43/2022 at 11:43:45	|MACHINE TURNED OFF SAFELY|
+--------------------
+19/45/2022 at 11:45:27	MACHINE TURNED ON
+****************************************
+19/45/2022 at 11:45:27	Pizza #1 was ordered
+Details:
+
+19/45/2022 at 11:45:27	mixing dough
+
+19/45/2022 at 11:45:27	pouring dough into pan
+
+19/45/2022 at 11:45:27	adding Pizza Sauce
+
+19/45/2022 at 11:45:27	baking the pizza
+
+19/45/2022 at 11:45:28	Pizza delivered
+****************************************
+19/45/2022 at 11:45:32	Pizza #2 was ordered
+Details:
+
+19/45/2022 at 11:45:32	mixing dough
+
+19/45/2022 at 11:45:32	pouring dough into pan
+
+19/45/2022 at 11:45:32	adding Pizza Sauce
+
+19/45/2022 at 11:45:32	baking the pizza
+
+19/45/2022 at 11:45:34	Pizza delivered
+****************************************
+19/45/2022 at 11:45:38	Pizza #3 was ordered
+Details:
+
+19/45/2022 at 11:45:38	mixing dough
+
+19/45/2022 at 11:45:38	pouring dough into pan
+
+19/45/2022 at 11:45:40	there is no enough amount of Oil, please refill
+19/45/2022 at 11:45:46	Pizza #4 was ordered
+Details:
+
+19/45/2022 at 11:45:46	mixing dough
+
+19/45/2022 at 11:45:46	pouring dough into pan
+
+19/45/2022 at 11:45:46	adding Pizza Sauce
+
+19/45/2022 at 11:45:46	baking the pizza
+
+19/45/2022 at 11:45:47	Pizza delivered
+****************************************
+19/45/2022 at 11:45:52	Pizza #5 was ordered
+Details:
+
+19/45/2022 at 11:45:52	mixing dough
+
+19/45/2022 at 11:45:52	pouring dough into pan
+
+19/45/2022 at 11:45:52	adding Mozzarella Cheese
+
+19/45/2022 at 11:45:52	baking the pizza
+
+19/45/2022 at 11:45:53	Pizza delivered
+****************************************
+19/45/2022 at 11:45:57	Pizza #6 was ordered
+Details:
+
+19/45/2022 at 11:45:57	mixing dough
+
+19/45/2022 at 11:45:57	pouring dough into pan
+
+19/45/2022 at 11:45:57	adding Onion
+
+19/45/2022 at 11:45:57	baking the pizza
+
+19/45/2022 at 11:45:58	Pizza delivered
+****************************************
+19/46/2022 at 11:46:03	Pizza #7 was ordered
+Details:
+
+19/46/2022 at 11:46:03	mixing dough
+
+19/46/2022 at 11:46:03	pouring dough into pan
+
+19/46/2022 at 11:46:05	there is no enough amount of Oil, please refill
+19/46/2022 at 11:46:06	|MACHINE TURNED OFF SAFELY|
+--------------------
+19/46/2022 at 11:46:29	MACHINE TURNED ON
+****************************************
+19/46/2022 at 11:46:29	Pizza #1 was ordered
+Details:
+
+19/46/2022 at 11:46:29	mixing dough
+
+19/46/2022 at 11:46:29	pouring dough into pan
+
+19/46/2022 at 11:46:29	adding Tomatoes
+
+19/46/2022 at 11:46:29	baking the pizza
+
+19/46/2022 at 11:46:30	Pizza delivered
+****************************************
+19/46/2022 at 11:46:35	Pizza #2 was ordered
+Details:
+
+19/46/2022 at 11:46:35	mixing dough
+
+19/46/2022 at 11:46:35	pouring dough into pan
+
+19/46/2022 at 11:46:35	adding Mozzarella Cheese
+
+19/46/2022 at 11:46:35	pan cannot fit Mozzarella Cheese, please select less toppings
+19/46/2022 at 11:46:43	Pizza #3 was ordered
+Details:
+
+19/46/2022 at 11:46:43	mixing dough
+
+19/46/2022 at 11:46:43	pouring dough into pan
+
+19/46/2022 at 11:46:43	adding Garlic
+
+19/46/2022 at 11:46:43	adding Onion
+
+19/46/2022 at 11:46:43	adding Pizza Sauce
+
+19/46/2022 at 11:46:43	baking the pizza
+
+19/46/2022 at 11:46:45	Pizza delivered
+****************************************
+19/46/2022 at 11:46:52	Pizza #4 was ordered
+Details:
+
+19/46/2022 at 11:46:52	mixing dough
+
+19/46/2022 at 11:46:52	pouring dough into pan
+
+19/46/2022 at 11:46:52	adding Mozzarella Cheese
+
+19/46/2022 at 11:46:52	pan cannot fit Mozzarella Cheese, please select less toppings
+19/46/2022 at 11:46:57	Pizza #5 was ordered
+Details:
+
+19/46/2022 at 11:46:57	mixing dough
+
+19/46/2022 at 11:46:57	pouring dough into pan
+
+19/46/2022 at 11:46:58	there is no enough amount of Oil, please refill
+19/47/2022 at 11:47:07	Pizza #6 was ordered
+Details:
+
+19/47/2022 at 11:47:07	mixing dough
+
+19/47/2022 at 11:47:07	pouring dough into pan
+
+19/47/2022 at 11:47:07	adding Oregano 
+
+19/47/2022 at 11:47:07	baking the pizza
+
+19/47/2022 at 11:47:08	Pizza delivered
+****************************************
+19/47/2022 at 11:47:14	Pizza #7 was ordered
+Details:
+
+19/47/2022 at 11:47:14	mixing dough
+
+19/47/2022 at 11:47:14	pouring dough into pan
+
+19/47/2022 at 11:47:14	adding Onion
+
+19/47/2022 at 11:47:14	baking the pizza
+
+19/47/2022 at 11:47:15	Pizza delivered
+****************************************
+19/47/2022 at 11:47:20	Pizza #8 was ordered
+Details:
+
+19/47/2022 at 11:47:20	mixing dough
+
+19/47/2022 at 11:47:20	pouring dough into pan
+
+19/47/2022 at 11:47:22	there is no enough amount of Oil, please refill
+19/47/2022 at 11:47:31	Pizza #9 was ordered
+Details:
+
+19/47/2022 at 11:47:31	mixing dough
+
+19/47/2022 at 11:47:31	pouring dough into pan
+
+19/47/2022 at 11:47:31	adding Oregano 
+
+19/47/2022 at 11:47:31	baking the pizza
+
+19/47/2022 at 11:47:32	Pizza delivered
+****************************************
+19/47/2022 at 11:47:35	|MACHINE TURNED OFF SAFELY|
+--------------------
