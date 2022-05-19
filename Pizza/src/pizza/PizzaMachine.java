@@ -14,11 +14,15 @@ public class PizzaMachine extends javax.swing.JFrame {
     
     ArrayList<Ingredient> DoughTotalIng;
     ArrayList<Ingredient> totalToppings;
+    ArrayList<Ingredient> toppings = new ArrayList<>();
+    ArrayList<Ingredient> Selectedtoppings = new ArrayList<>();
+    int[] selectedToppingsIndecies;
+
     
     public PizzaMachine() {
         initComponents();
         
-        loadMachine(15);
+        loadMachine(6);
     }
 
     void loadMachine(double shares){
@@ -26,8 +30,7 @@ public class PizzaMachine extends javax.swing.JFrame {
         DoughTotalIng = new ArrayList<>();
         totalToppings = new ArrayList<>();
         
-        
-        DoughTotalIng.add(new Ingredient("total Flour", 300 * shares));//300 * shares                  // index = 0
+        DoughTotalIng.add(new Ingredient("total Flour", 3000 * shares));//300 * shares                  // index = 0
         DoughTotalIng.add(new Ingredient("total Oil", 108 * shares));
         DoughTotalIng.add(new Ingredient("total Sugar", 4.25 * shares));
         DoughTotalIng.add(new Ingredient("total Salt", 6 * shares));
@@ -35,7 +38,7 @@ public class PizzaMachine extends javax.swing.JFrame {
         DoughTotalIng.add(new Ingredient("total Milk", 240 * shares)); // 240 * shares
 
         totalToppings.add(new Ingredient("total Mmozzarella Cheese", 170 * shares)); //170 * shares    //index = 0
-        totalToppings.add(new Ingredient("total Tomatoes", 40 * shares));//120 * shares
+        totalToppings.add(new Ingredient("total Tomatoes", 120 * shares));//120 * shares
         totalToppings.add(new Ingredient("total Garlic", 40 * shares)); // 7 * shares
         totalToppings.add(new Ingredient("total Onion", 115 * shares));
         totalToppings.add(new Ingredient("total Sauce", 100 * shares));
@@ -377,57 +380,29 @@ public class PizzaMachine extends javax.swing.JFrame {
 //        if(ordered)
             jTextArea1.setText(s);
 //        else
-//            JOptionPane.showMessageDialog(this, "you must confirm your order first");
+//            showMessage("you must confirm your order first");
     }//GEN-LAST:event_viewInformationActionPerformed
 
     private void confirmTheOrderActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_confirmTheOrderActionPerformed
        if(Pizza.getCount() == 0){
-           logger.log("MACHINE TURNED ON\n****************************************");
+           log("MACHINE TURNED ON\n****************************************");
        }
-       jProgressBar1.setVisible(false);
-       progressVal.setVisible(false);
-       int size = 0, type = 0;
-       // getting size
-       if(small.isSelected())
-           size = 1;
-       else if(meduim.isSelected())
-           size = 2;
-       else if(large.isSelected())
-           size = 3;
-              
-       // getting pan type
-       if(pan.isSelected())
-           type = 1;
-       else if(deepDish.isSelected())
-           type = 2;
-       
-       //********************************************toppings initailization
-        ArrayList<Ingredient> toppings = new ArrayList<>();
-        toppings.add(new Ingredient("Mozzarella Cheese", 170 * size, 476 * size)); // index : 0
-        toppings.add(new Ingredient("Tomatoes", 120 * size, 22 * size));
-        toppings.add(new Ingredient("Garlic", 7 * size, 4 * size));
-        toppings.add(new Ingredient("Onion", 115 * size, 44 * size));
-        toppings.add(new Ingredient("Pizza Sauce", 56 * size, 28 * size));
-        toppings.add(new Ingredient("Oregano ", 10 * size, 31 * size));
-        toppings.add(new Ingredient("Olives ", 10 * size, 31 * size));
-        toppings.add(new Ingredient("Red Peppers", 10 * size, 31 * size)); 
-            
-        int[] selectedToppingsIndecies = jList1.getSelectedIndices();
-        ArrayList<Ingredient> Selectedtoppings = new ArrayList<>();
+        jProgressBar1.setVisible(false);
+        progressVal.setVisible(false);
+        int size = GUIgetSize();
+        int type = GUIgetType();       
+        initToppings(size);
         
-        for(int i = 0, n = selectedToppingsIndecies.length; i < n; i++){
-            Ingredient e = toppings.get(selectedToppingsIndecies[i]);
-            Selectedtoppings.add(e);
-        }
+        getSelectedToppings();
         
         if(size == 0){
-        JOptionPane.showMessageDialog(this, "please specify the size of the pizza");
+            showMessage("please specify the size of the pizza");
         }
         else if(type == 0){
-            JOptionPane.showMessageDialog(this, "please specify the type of the pizza");
+            showMessage("please specify the type of the pizza");
         }
         else if(selectedToppingsIndecies.length == 0){
-            JOptionPane.showMessageDialog(this, "please select at least one topping");
+            showMessage("please select at least one topping");
         }
         else{
             ordered = true;
@@ -448,18 +423,18 @@ public class PizzaMachine extends javax.swing.JFrame {
                     jProgressBar1.setVisible(true);
                     progressVal.setVisible(true);
                     try {
-                        logger.log("baking the pizza\n");
+                        log("baking the pizza\n");
                         for(int i = 0; i <= 100; i++){
                             pizza.getPan().bake();
                             progressVal.setText(i + "%");
                             jProgressBar1.setValue(i);
                         }
                    } catch (InterruptedException ex) {
-                       logger.log(ex.getMessage());
+                       log(ex.getMessage());
                    }
 
                     s = pizza.getInfo(); 
-                    logger.log("Pizza delivered\n****************************************");
+                    log("Pizza delivered\n****************************************");
                     size = type = 0;
                     viewInformation.setEnabled(true);
                     newOrder.setEnabled(true);
@@ -522,15 +497,62 @@ public class PizzaMachine extends javax.swing.JFrame {
                         }
                     }
                     catch (AmountNotAvailableException ex) {
-                        JOptionPane.showMessageDialog(this, ex.getMessage());
-                        logger.log(ex.getMessage());
+                        showMessage(ex.getMessage());
+                        log(ex.getMessage());
                     }
-                }
-            return isEnough;
+            }
+        return isEnough;
     }
 
-   
+    private int GUIgetSize(){
+       int size = 0;
+       if(small.isSelected())
+           size = 1;
+       else if(meduim.isSelected())
+           size = 2;
+       else if(large.isSelected())
+           size = 3;
+       return size;
+   }
     
+    private int GUIgetType() {
+           int type = 0;
+       // getting pan type
+       if(pan.isSelected())
+           type = 1;
+       else if(deepDish.isSelected())
+           type = 2;
+       return type;
+    }
+    
+    private void initToppings(int size){
+        toppings.add(new Ingredient("Mozzarella Cheese", 170 * size, 476 * size)); // index : 0
+        toppings.add(new Ingredient("Tomatoes", 120 * size, 22 * size));
+        toppings.add(new Ingredient("Garlic", 7 * size, 4 * size));
+        toppings.add(new Ingredient("Onion", 115 * size, 44 * size));
+        toppings.add(new Ingredient("Pizza Sauce", 56 * size, 28 * size));
+        toppings.add(new Ingredient("Oregano ", 10 * size, 31 * size));
+        toppings.add(new Ingredient("Olives ", 10 * size, 31 * size));
+        toppings.add(new Ingredient("Red Peppers", 10 * size, 31 * size)); 
+    }
+    
+    private void getSelectedToppings() {
+        selectedToppingsIndecies = jList1.getSelectedIndices();
+
+        for(int i = 0, n = selectedToppingsIndecies.length; i < n; i++){
+            Ingredient e = toppings.get(selectedToppingsIndecies[i]);
+            Selectedtoppings.add(e);
+        }
+    }
+    
+    private void showMessage(String message){
+        JOptionPane.showMessageDialog(this, message);
+    }
+    
+    private void log(String s){
+        logger.log(s);
+    }
+       
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton backBtn;
     private javax.swing.ButtonGroup buttonGroup1;
@@ -560,6 +582,5 @@ public class PizzaMachine extends javax.swing.JFrame {
     private javax.swing.JRadioButton small;
     private javax.swing.JButton viewInformation;
     // End of variables declaration//GEN-END:variables
-
 
 }
